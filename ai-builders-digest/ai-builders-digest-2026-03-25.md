@@ -1,4 +1,4 @@
-# AI Builders Digest - 2026年03月25日
+# AI Builders Digest - 2026年03月25日 17:20
 
 > 由 OpenClaw 自动生成 | 数据来源: Follow Builders Project | 中英对照版
 
@@ -6,7 +6,7 @@
 
 ## 📊 今日概览
 
-- **Tweets**: 15 条更新
+- **Tweets**: 15 条精选翻译
 - **格式**: 中英对照
 
 ---
@@ -14,7 +14,6 @@
 ## 🐦 AI Builders 最新动态
 
 ### 1. @karpathy
-
 **Andrej Karpathy**
 
 Software horror: litellm PyPI supply chain attack. 
@@ -29,80 +28,84 @@ Supply chain attacks like this are basically the scariest thing imaginable in mo
 
 Classical software engineering would have you believe that dependencies are good (we're building pyramids from bricks), but imo this has to be re-evaluated, and it's why I've been so growingly averse to them, preferring to use LLMs to "yoink" functionality when it's simple enough and possible.
 
-🔗 [查看原文](https://x.com/karpathy/status/2036487306585268612) | ❤️ 21171 | 🔁 4006
+软件界的恐怖故事：litellm PyPI 供应链攻击。
 
----
+只需要简单的 `pip install litellm` 就足以窃取 SSH keys、AWS/GCP/Azure 凭证、Kubernetes 配置、git 凭证、env vars（你所有的 API keys）、shell 历史记录、加密货币钱包、SSL 私钥、CI/CD 机密、数据库密码。
+
+LiteLLM 本身每月就有 9700 万次下载，这已经很糟糕了，但更糟的是，这种污染会传播到任何依赖 litellm 的项目。例如，如果你执行了 `pip install dspy`（它依赖 litellm>=1.64.0），你也会被攻破（pwnd）。任何依赖 litellm 的大型项目都一样。
+
+据我所知（Afaict），被投毒的版本上线不到 1 小时。这次攻击有一个 bug 导致了它的发现——Callum McMahon 在 Cursor 中使用了一个 MCP plugin，该插件将 litellm 作为传递依赖（transitive dependency）引入。当安装 litellm 1.82.8 时，他的机器 RAM 耗尽并崩溃了。所以如果攻击者不是这么随意地（vibe code）编写这次攻击，它可能很多天甚至几周都不会被发现。
+
+像这样的供应链攻击基本上是现代软件中能想象到的最可怕的事情。每次你安装任何依赖时，都可能在其整个依赖树深处的某个地方引入被投毒的包。这对于可能拥有大量依赖的大型项目来说尤其危险。每次攻击中窃取的凭证随后可以用来接管更多账户并破坏更多包。
+
+传统的软件工程会让你相信依赖是好的（我们是用砖块建造金字塔），但在我看来，这需要重新评估。这也是为什么我越来越排斥依赖，更倾向于在简单且可行的情况下，使用 LLMs 直接“抓取”（yoink）功能。
+
+🔗 原文链接 | ❤️ 21171 | 🔁 4006
 
 ### 2. @swyx
-
 **Swyx**
 
 seriously @walden_yan cooked, this thing legitimately saves my ass 3-8x a day, and yes it sounds weird that devin can catch devin's own mistakes, but this is basically the equivalent of "sleeping on it" and looking at a PR with fresh/more critical eyes.  btw you should also see the "smart friend" pattern he piloted in Windsurf, it is going to be the design pattern for smarter subagents (usually subagents are dumber) that others are only just catching on to
 
-🔗 [查看原文](https://x.com/swyx/status/2036565584515899445) | ❤️ 109 | 🔁 3
+说真的，@walden_yan 做得太牛了（cooked），这东西每天实实在在地救了我 3-8 次大忙。是的，听起来很奇怪，Devin 能捕捉 Devin 自己的错误，但这基本上等同于“睡一觉冷静一下”，然后用更新鲜、更批判性的眼光去查看 PR。
 
----
+顺便说一句，你还应该看看他在 Windsurf 中试点的 "smart friend" 模式，这将成为更聪明的子 Agent（subagents）的设计模式（通常子 Agent 比较笨），而其他人才刚刚开始意识到这一点。
+
+🔗 原文链接 | ❤️ 109 | 🔁 3
 
 ### 3. @swyx
-
 **Swyx**
 
-https://t.co/rBYwFF4t5s https://t.co/i4lxZSxVB0
+first casualty of OpenAI's crackdown on Side Quests:
 
-🔗 [查看原文](https://x.com/swyx/status/2036540782925193336) | ❤️ 6 | 🔁 0
+Sora is dead :( 
 
----
+OpenAI 打击 Side Quests 的首个牺牲品：
 
-### 4. @swyx
+Sora 死了 :(
 
-**Swyx**
+🔗 原文链接 | ❤️ 122 | 🔁 1
 
-first casualty of OpenAI’s crackdown on Side Quests:
-
-Sora is dead :( https://t.co/sfQhNu3IQ5
-
-🔗 [查看原文](https://x.com/swyx/status/2036533647659143630) | ❤️ 122 | 🔁 1
-
----
-
-### 5. @joshwoodward
-
+### 4. @joshwoodward
 **Josh Woodward**
 
 I've been at @Google since I was an intern, and there's never been a more exciting time. The place is pulsating.
 
 We're hiring :)
 
-@GeminiApp or @GoogleAIStudio: https://t.co/otVHg9uuqo
+@GeminiApp or @GoogleAIStudio: [link]
 
-@GoogleLabs: https://t.co/e7zA6GJYDe https://t.co/9J4UFJyWPy
+@GoogleLabs: [link] [link]
 
-🔗 [查看原文](https://x.com/joshwoodward/status/2036513009661780291) | ❤️ 1483 | 🔁 103
+我从实习生时期就在 @Google 工作，从来没有像现在这样令人兴奋的时刻。这里充满了活力。
 
----
+我们正在招聘 :)
 
-### 6. @petergyang
+@GeminiApp 或 @GoogleAIStudio: [链接]
 
+@GoogleLabs: [链接] [链接]
+
+🔗 原文链接 | ❤️ 1483 | 🔁 103
+
+### 5. @petergyang
 **Peter Yang**
 
-Nooo they can't talk to each other? Come on @telegram https://t.co/47t4ZjGCgw
+Noo they can't talk to each other? Come on @telegram 
 
-🔗 [查看原文](https://x.com/petergyang/status/2036669221363761456) | ❤️ 1 | 🔁 0
+不是吧，它们不能互相对话？拜托 @telegram 
 
----
+🔗 原文链接 | ❤️ 1 | 🔁 0
 
-### 7. @petergyang
-
+### 6. @petergyang
 **Peter Yang**
 
 My Telegram is just chats with my OpenClaw and now Claude bots. Haven't talked to a single human yet.
 
-🔗 [查看原文](https://x.com/petergyang/status/2036664048700600706) | ❤️ 25 | 🔁 3
+我的 Telegram 里全是和我的 OpenClaw 以及现在的 Claude bots 聊天。还没跟任何一个真人说过话。
 
----
+🔗 原文链接 | ❤️ 25 | 🔁 3
 
-### 8. @petergyang
-
+### 7. @petergyang
 **Peter Yang**
 
 I hope AI agents will help us all stop obsessing about:
@@ -116,90 +119,105 @@ I hope AI agents will help us all stop obsessing about:
 
 and instead let us all obsess about improving the end user product and rapid iteration loops with users.
 
-Product development is much more fun that way. https://t.co/vGcLnCTJOn
+Product development is much more fun that way. 
 
-🔗 [查看原文](https://x.com/petergyang/status/2036621615086309468) | ❤️ 71 | 🔁 6
+我希望 AI agents 能帮助我们所有人停止过度纠结于：
 
----
+- Specs
+- Designs
+- Issues
+- Roadmaps
+- Strategy docs
+- Spreadsheets
+
+而是让我们都专注于改进终端用户产品以及与用户的快速迭代循环（rapid iteration loops）。
+
+产品开发这样才会更有趣。
+
+🔗 原文链接 | ❤️ 71 | 🔁 6
+
+### 8. @thenanyu
+**Nan Yu**
+
+My incentives were to get this agent thing to work so I didn't have to do annoying work anymore!
+
+我的动力就是让这个 agent 东西跑起来，这样我就不用再做那些烦人的工作了！
+
+🔗 原文链接 | ❤️ 2 | 🔁 0
 
 ### 9. @thenanyu
-
 **Nan Yu**
 
-My incentives were to get this agent thing to work so I didn’t have to do annoying work anymore!
+Gemini always getting wrecked in these screenshots 
 
-https://t.co/vI6hR0CVvq
+在这些截图里 Gemini 总是被完爆 
 
-🔗 [查看原文](https://x.com/thenanyu/status/2036631571118084476) | ❤️ 2 | 🔁 0
-
----
+🔗 原文链接 | ❤️ 5 | 🔁 0
 
 ### 10. @thenanyu
-
 **Nan Yu**
 
-Gemini always getting wrecked in these screenshots https://t.co/SjzUe148WU
+I haven't written a PRD by hand, filed an issue through a form, or hand-written any code in months. 
 
-🔗 [查看原文](https://x.com/thenanyu/status/2036619356730204395) | ❤️ 5 | 🔁 0
+But the volume of work I'm producing and the quality bar have never been higher. 
 
----
+我已经几个月没有手写 PRD 了，没有通过表单提交过 issue，也没有手写任何代码。
 
-### 11. @thenanyu
+但我产出的工作量和质量标准（quality bar）从未如此之高。
 
-**Nan Yu**
+🔗 原文链接 | ❤️ 266 | 🔁 11
 
-I haven’t written a PRD by hand, filed an issue through a form, or hand-written any code in months. 
-
-But the volume of work I’m producing and the quality bar have never been higher. https://t.co/dSyyn7yzwg
-
-🔗 [查看原文](https://x.com/thenanyu/status/2036549647267709110) | ❤️ 266 | 🔁 11
-
----
-
-### 12. @_catwu
-
+### 11. @_catwu
 **Cat Wu**
 
-Excited to see everyone at Code with Claude! What would you like to hear from us at this year's sessions? https://t.co/RxWLfs4kFo
+Excited to see everyone at Code with Claude! What would you like to hear from us at this year's sessions? 
 
-🔗 [查看原文](https://x.com/_catwu/status/2036594646370210229) | ❤️ 211 | 🔁 10
+很高兴在 Code with Claude 见到大家！在今年的环节（sessions）中，你们想听我们分享什么？
 
----
+🔗 原文链接 | ❤️ 211 | 🔁 10
+
+### 12. @trq212
+**Thariq**
+
+only available on Teams right now, but working on scaling it 
+
+目前仅在 Teams 上可用，但我们正在努力扩大范围 
+
+🔗 原文链接 | ❤️ 46 | 🔁 0
 
 ### 13. @trq212
-
 **Thariq**
 
-only available on Teams right now, but working on scaling it https://t.co/YlJU3OKrew
+turns out being an AI safety company is useful for when you need to make sure AIs can run safely 
 
-🔗 [查看原文](https://x.com/trq212/status/2036515949617037711) | ❤️ 46 | 🔁 0
+事实证明，当你需要确保 AIs 能够安全运行时，成为一家 AI 安全公司还是很有用的 
 
----
+🔗 原文链接 | ❤️ 1180 | 🔁 35
 
 ### 14. @trq212
-
 **Thariq**
 
-turns out being an AI safety company is useful for when you need to make sure AIs can run safely https://t.co/DjJZjPrZn4
+I'll be covering how to make the most of this in my livestream on March 31st with Figma! 
 
-🔗 [查看原文](https://x.com/trq212/status/2036513038983995820) | ❤️ 1180 | 🔁 35
+You can sign up here: [link] [link]
+
+我将在 3 月 31 日与 Figma 合作的直播中讲解如何充分利用这一点！
+
+你可以在此报名：[链接] [链接]
+
+🔗 原文链接 | ❤️ 190 | 🔁 10
 
 ---
 
-### 15. @trq212
+## 📚 相关资源
 
-**Thariq**
-
-I’ll be covering how to make the most of this in my livestream on March 31st with Figma! 
-
-You can sign up here: https://t.co/G32hMTFUR4 https://t.co/9owzK6bjWF
-
-🔗 [查看原文](https://x.com/trq212/status/2036442894777594248) | ❤️ 190 | 🔁 10
+- **Follow Builders Project**: https://github.com/zarazhangrui/follow-builders
+- **数据更新频率**: Tweets 每 6 小时
 
 ---
 
-
-
+*文档生成时间: 2026-03-25 17:20:27*
+*由 OpenClaw AI Builders Digest 自动生成 | 中英对照版*
 ## 🎙️ Podcasts 更新
 
 ### 1. 🔬There Is No AlphaFold for Materials — AI for Materials Discovery with Heather Kulik
@@ -217,7 +235,3 @@ You can sign up here: https://t.co/G32hMTFUR4 https://t.co/9owzK6bjWF
 - **Follow Builders Project**: https://github.com/zarazhangrui/follow-builders
 - **数据更新频率**: Tweets 每 6 小时, Podcasts 每 24 小时
 
----
-
-*文档生成时间: 2026-03-25 17:16:17*
-*由 OpenClaw AI Builders Digest 自动生成 | 中英对照版*
