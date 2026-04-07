@@ -172,13 +172,28 @@ python3 bin/mimotts.py "宝哥哥，你可来了！" --output lin.wav
 
 ---
 
-## GitHub Token 更新 (2026-03-26)
+## GitHub Token 管理规则（2026-04-07 更新）
 
-- **原因**: ApiFox 被投毒事件，删除旧 token
-- **新 Token**: `[GITHUB_TOKEN]`
+### ⚠️ 绝对规则
+- **旧 token 已废弃**：ApiFox 事件旧 token（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）已泄露，**永远不要使用**
+- **GitHub Secret Scanning 已启用**：push 含 token 明文的 commit 会被阻止
+- **Token 只存 git-外部**：`~/.git-credentials`（绝不能提交到 git 仓）
+
+### 当前有效 Token
+- **Token**: `[GITHUB_TOKEN]`
 - **账号**: cl-zhao
 - **Scopes**: repo, workflow, write:packages
-- **已更新**: 
-  - ✅ git remote URL (product-recommendations)
-  - ✅ gh auth status 验证通过
+- **Token 存储位置**: `~/.git-credentials`（格式：`https://cl-zhao:TOKEN@github.com`）
+- **Credential Helper**: store（自动从 ~/.git-credentials 读取）
+
+### Git 配置
+- `.git/config` 中的 remote URL 不含 token（只用 `https://github.com/cl-zhao/product-recommendations.git`）
+- 推送前确保 `~/.git-credentials` 存在且格式正确
+
+### 未来 Token 轮换流程
+1. GitHub Settings → Developer settings → Personal access tokens → 撤销旧 token
+2. 生成新 token
+3. 更新 `~/.git-credentials`（格式：`https://cl-zhao:新TOKEN@github.com`）
+4. 更新 `TOOLS.md` 和 `MEMORY.md` 中的占位符注释
+5. **严禁**将 token 明文写入任何 git 跟踪的文件
 
