@@ -175,7 +175,7 @@ python3 bin/mimotts.py "宝哥哥，你可来了！" --output lin.wav
 ## GitHub Token 更新 (2026-03-26)
 
 - **原因**: ApiFox 被投毒事件，删除旧 token
-- **新 Token**: `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`
+- **新 Token**: `[GITHUB_TOKEN]`
 - **账号**: cl-zhao
 - **Scopes**: repo, workflow, write:packages
 - **已更新**: 
