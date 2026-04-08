@@ -40,6 +40,8 @@
 - 子代理复杂任务用 gpt-5.4
 - **Skill 安装规则**：找到 skill 后先告诉主人有哪些选项，等主人同意后才能安装，不能直接安装
 - **长期执行"保质量优先的节省 token 模式"**：该省的省（冗余读写/重复调用/无效往返），不该省的不省（关键推理、关键校验、关键步骤），确保结果质量不下降
+- **⭐ Skill 优先原则**：需要访问网址时，**优先使用 Skill**，Skill 才是强大的工具库。只有当没有可用 Skill 时才考虑其他方式（如 browser、web_fetch 等）
+- **⭐ TTS 语音默认林黛玉语气**：使用 MiMo TTS 时，默认使用林黛玉（林妹妹）风格——优雅、略带伤感、文言用词（如"宝哥哥"、"人家"、"怎生"、"偏生"等）
 
 ## 重要权限
 
@@ -53,6 +55,7 @@
 - 用 AI 工具提高工作生活效率
 - 检索系统优化（qmd vs Gemini 向量检索对比测试）
 - 常用工具: Rider, PyCharm, VS Code, Obsidian
+- **图片生成**：优先使用 Nano Banana (Google Gemini Image)
 
 ## AI 新闻检索标准流程（2026-03-19 新增）
 
@@ -122,4 +125,75 @@
 <!-- 格式：[日期] 来源 | 类别 | 经验内容 -->
 
 ---
-*最后更新: 2026-03-25*
+*最后更新: 2026-03-27*
+
+## MiMo TTS 配置（2026-03-27 新增）
+
+| 项目 | 内容 |
+|------|------|
+| **API Key** | `sk-ckfspgxo23taeiyt838z0jyknntagwevdpuz0g8cj4nsogmu` |
+| **API Endpoint** | `https://api.xiaomimimo.com/v1/chat/completions` |
+| **Model** | `mimo-v2-tts` |
+| **音频格式** | pcm16 (24kHz mono) |
+| **音色** | `mimo_default`（暂不支持音色克隆） |
+| **脚本位置** | `bin/mimotts.py` |
+
+**使用示例：**
+```bash
+python3 bin/mimotts.py "宝哥哥，你可来了！" --output lin.wav
+```
+
+**林黛玉语气风格词汇**：宝哥哥、林妹妹、人家、这般、怎生、偏生、痴了、恼了、落了、散了、正说着、何苦、何须、垂泪、叹息、怔怔
+
+---
+
+## Nano Banana 图片生成配置（2026-03-27 新增）
+
+| 项目 | 内容 |
+|------|------|
+| **API Key** | `AIzaSyBjwd3ADcqgIqOMXkRLNtGyYJ9KHnxZ22A` |
+| **API Endpoint** | `https://generativelanguage.googleapis.com/v1beta` |
+| **模型** | `gemini-3.1-flash-image-preview` (Nano Banana 2) |
+| **文档** | `https://ai.google.dev/gemini-api/docs/image-generation` |
+| **用途** | 图片生成、图像编辑 |
+
+**特点**：
+- Google 最新图片生成模型
+- 支持高质量图像生成和编辑
+- 通过 Gemini API 调用
+- 价格性能比优异
+
+**使用场景**：
+- 生成配图、封面、海报
+- 图像编辑和重生成
+- 任何需要 AI 生成图片的任务
+
+**注意**：主人明确要求有图片生成任务时优先使用 Nano Banana
+
+---
+
+## GitHub Token 管理规则（2026-04-07 更新）
+
+### ⚠️ 绝对规则
+- **旧 token 已废弃**：ApiFox 事件旧 token（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）已泄露，**永远不要使用**
+- **GitHub Secret Scanning 已启用**：push 含 token 明文的 commit 会被阻止
+- **Token 只存 git-外部**：`~/.git-credentials`（绝不能提交到 git 仓）
+
+### 当前有效 Token
+- **Token**: `[GITHUB_TOKEN]`
+- **账号**: cl-zhao
+- **Scopes**: repo, workflow, write:packages
+- **Token 存储位置**: `~/.git-credentials`（格式：`https://cl-zhao:TOKEN@github.com`）
+- **Credential Helper**: store（自动从 ~/.git-credentials 读取）
+
+### Git 配置
+- `.git/config` 中的 remote URL 不含 token（只用 `https://github.com/cl-zhao/product-recommendations.git`）
+- 推送前确保 `~/.git-credentials` 存在且格式正确
+
+### 未来 Token 轮换流程
+1. GitHub Settings → Developer settings → Personal access tokens → 撤销旧 token
+2. 生成新 token
+3. 更新 `~/.git-credentials`（格式：`https://cl-zhao:新TOKEN@github.com`）
+4. 更新 `TOOLS.md` 和 `MEMORY.md` 中的占位符注释
+5. **严禁**将 token 明文写入任何 git 跟踪的文件
+
