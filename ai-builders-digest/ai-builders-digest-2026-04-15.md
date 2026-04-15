@@ -6,7 +6,7 @@
 
 ## 📊 今日概览 / Today's Overview
 
-- **推文 / Tweets**: 25 条更新 / updates
+- **推文 / Tweets**: 32 条更新 / updates
 - **播客 / Podcasts**: 0 条更新 / updates
 
 ---
@@ -15,386 +15,400 @@
 
 ### 1. @swyx
 
-**Swyx** · 04-13 20:20
+**Swyx** · 04-15 05:58
 
-If you're looking to improve your writing game, Anh is one of the most consistent heavy hitters I know in devtools HN and she literally just open sourced her writing Skills template for you to use below!
+btw the famous slack chart is slack propaganda and everyone who cites it is legally obligated to also link to @sophiebits https://t.co/a1lra0Pwbf https://t.co/vRgxs89UeI
 
-如果你想提升写作水平，Anh 是我在 devtools HN 中见过最稳定的高产作者之一——她刚刚把自己的写作技巧模板开源了，放在下面给你用！
+顺便说一句，那个著名的 slack chart 是 slack 的宣传攻势，每个引用它的人都有法律义务同时链接 @sophiebits 的内容。
 
-🔗 [查看原文 / View Original](https://x.com/swyx/status/2043786360012845509)
-❤️ 527 · 🔁 25
+🔗 [查看原文 / View Original](https://x.com/swyx/status/2044294227887304731)
+❤️ 44 · 🔁 1
 
 ---
 
 ### 2. @swyx
 
-**Swyx** · 04-13 19:50
+**Swyx** · 04-15 03:08
 
-btw ~80% of the world's agents and ai engineering is done in these 3 square miles
+i didnt realize this lazy no effort post did so well… lol… chalk another W up to @josephofiowa's Maps Theory of Twitter
 
-顺便说，全球约 80% 的 AI 智能体和 AI 工程都集中在这三平方英里内。
+我没想到这条随手发的帖子效果这么好……笑死……这又要算 @josephofiowa 的「Twitter 地图理论」的一大胜利。
 
-🔗 [查看原文 / View Original](https://x.com/swyx/status/2043778767798317349)
-❤️ 774 · 🔁 20
+🔗 [查看原文 / View Original](https://x.com/swyx/status/2044251600882123137)
+❤️ 9 · 🔁 0
 
 ---
 
 ### 3. @swyx
 
-**Swyx** · 04-13 19:15
+**Swyx** · 04-15 02:04
 
-TIL @cognition usage has ~DOUBLED globally since these 2 launches. people are finding all sorts of creative usecases when u can compose agents together and make them proactive.
+more alpha from @rhythmrg and @lindensli 
 
-今天才知道：自这两次发布以来，@cognition 的全球使用量大约翻了一倍。当你可以把多个智能体组合在一起并让它们主动运作时，人们会找到各种有创意的用法。
+https://t.co/1vlj6Fqk0o
 
-agent recursion is all you need?
+来自 @rhythmrg 和 @lindensli 的更多内幕消息。
 
-智能体递归就是你的全部所需？
-
-🔗 [查看原文 / View Original](https://x.com/swyx/status/2043770029024653798)
-❤️ 78 · 🔁 5
+🔗 [查看原文 / View Original](https://x.com/swyx/status/2044235409019023496)
+❤️ 12 · 🔁 0
 
 ---
 
-### 4. @kevinweil
+### 4. @joshwoodward
 
-**Kevin Weil** · 04-14 06:10
+**Josh Woodward** · 04-14 20:23
 
-Could not agree more with @gdb.
+New in Gemini: NEET practice tests! 🇮🇳🩺
 
-我完全赞同 @gdb 的观点。
+Gemini 新功能：NEET 模拟考试！🇮🇳🩺
 
-🔗 [查看原文 / View Original](https://x.com/kevinweil/status/2043934843487302114)
-❤️ 72 · 🔁 1
+Sending good luck to everyone taking India's biggest medical exam in a few weeks. You've got this!
+
+为几周后参加印度最大医学考试的考生们送上祝福。你们可以的！
+
+We're working on adding more practice tests for different subjects and countries. What should we add next? Let us know below 👇
+
+我们正在开发更多科目和国家的模拟考试。下一个应该加什么？在下面告诉我们吧 👇
+
+🔗 [查看原文 / View Original](https://x.com/joshwoodward/status/2044149482548580689)
+❤️ 729 · 🔁 76
 
 ---
 
 ### 5. @petergyang
 
-**Peter Yang** · 04-14 02:34
+**Peter Yang** · 04-15 04:17
 
-lol straight fire
+Why is it still asking me for perms after I turned on bypass perms and always accept edits 🤔
 
-哈哈，太燃了。
+我都开了 bypass perms 和 always accept edits 了，为什么还在问我要权限 🤔
 
-🔗 [查看原文 / View Original](https://x.com/petergyang/status/2043880587623313826)
-❤️ 8 · 🔁 0
+🔗 [查看原文 / View Original](https://x.com/petergyang/status/2044268754981576908)
+❤️ 2 · 🔁 0
 
 ---
 
 ### 6. @petergyang
 
-**Peter Yang** · 04-14 00:27
+**Peter Yang** · 04-15 02:01
 
-The thing I have to remind myself constantly with OpenClaw, Claude Code, and the like is am I actually setting up workflows to get real work done or am I just optimizing my OpenClaw and Claude Code setup.
+I'm enjoying using the new Claude Code app (RIP terminal). 
 
-我需要不断提醒自己：用 OpenClaw、Claude Code 这类工具时，我到底是在建立真正能完成工作的的工作流，还是只是在优化 OpenClaw 和 Claude Code 的配置。
+我很喜欢用新的 Claude Code 应用（terminal 可以安息了）。
 
-Very easy to just do the latter because it feels like progress (and is fun) but isn't actually super productive after a certain extent.
+How can I work on the same session across the Claude mobile app too? 
 
-后者太容易沉迷了——因为它感觉上是在进步（而且很有趣），但达到一定程度后实际上并没有那么高的产出。
+怎么才能在 Claude 移动端上也用同一个 session？
 
-🔗 [查看原文 / View Original](https://x.com/petergyang/status/2043848480423325757)
-❤️ 199 · 🔁 5
+/remote-control doesn't seem to work and tbh I shouldn't have to type this to work across desktop + mobile anyway.
+
+`/remote-control` 好像不管用，说实话我根本不应该需要打命令才能在桌面和手机之间切换。
+
+🔗 [查看原文 / View Original](https://x.com/petergyang/status/2044234654241436066)
+❤️ 204 · 🔁 2
 
 ---
 
 ### 7. @petergyang
 
-**Peter Yang** · 04-13 16:47
+**Peter Yang** · 04-14 14:31
 
-I know OpenClaw isn't part of OpenAI but this feels like a mini-crisis for OpenAI if the GPT integration doesn't improve soon.
+"It's a mistake to think of the output of a prompt as a final result."
 
-我知道 OpenClaw 不属于 OpenAI，但如果 GPT 集成不尽快改进，这对 OpenAI 来说像是一场小型危机。
+「把 prompt 的输出当作最终结果是错误的。」
 
-The bar is GPT needs to be just as good if not better for OpenClaw as Opus.
+Here's @zoink on the difference between crafting with AI vs. outsourcing your thinking:
 
-GPT 需要至少和 Opus 一样好——甚至更好——才能在 OpenClaw 中站住脚。
+@sophiebits 关于用 AI 精雕细琢 vs. 把思考外包给 AI 的区别：
 
-🔗 [查看原文 / View Original](https://x.com/petergyang/status/2043732939817791979)
-❤️ 279 · 🔁 7
+"When you're exploring divergent possibilities with agents, you need to take [AI's output] and mold and shape it like clay.
+
+「当你在用 agent 探索多种可能性时，你需要把 AI 的输出当作黏土一样捏造打磨。
+
+Ultimately, you're the judge of the system. You're the one that needs to figure out what is good and worth exploring because the possibilities are likely almost infinite."
+
+最终你是这个系统的裁判。你需要判断什么是有价值的、值得探索的方向，因为可能性几乎是无限的。」
+
+tl:dr AI gets you to average fast. Your taste is what pushes past it.
+
+一句话：AI 帮你快速达到平均水准。你的审美和品味才是突破的关键。
+
+📌 Watch my full chat with Dylan here: https://t.co/gaYK2S2cRW
+
+📌 在这里观看我和 Dylan 的完整对话：https://t.co/gaYK2S2cRW
+
+🔗 [查看原文 / View Original](https://x.com/petergyang/status/2044061039671820406)
+❤️ 49 · 🔁 5
 
 ---
 
 ### 8. @thenanyu
 
-**Nan Yu** · 04-14 02:55
+**Nan Yu** · 04-14 16:26
 
-Bill Simmons Tommy Gunn energy
+Every time someone says Google or Meta is terrible, they need to be reminded those companies are unfathomably large. 
 
-Bill Simmons Tommy Gunn 的那股劲儿。
+每次有人唱衰 Google 或 Meta，都应该提醒他们这些公司规模大到难以想象。
 
-🔗 [查看原文 / View Original](https://x.com/thenanyu/status/2043885767152320875)
-❤️ 1 · 🔁 0
+Their misses are going to seem enormous because their basic unit of execution is huge. 
 
----
+它们的失误看起来很大，是因为它们的执行单元本身就很大。
 
-### 9. @trq212
+Like in most businesses: count wins not losses
 
-**Thariq** · 04-13 22:12
+就像大多数企业一样：多算赢，少算输。
 
-Full docs are here:
-
-完整文档在这里：
-
-🔗 [查看原文 / View Original](https://x.com/trq212/status/2043814648315818242)
-❤️ 49 · 🔁 2
+🔗 [查看原文 / View Original](https://x.com/thenanyu/status/2044089885842186498)
+❤️ 16 · 🔁 0
 
 ---
 
-### 10. @trq212
+### 9. @_catwu
 
-**Thariq** · 04-13 22:12
+**Cat Wu** · 04-15 00:32
 
-Have you tried the new Claude Code renderer? What has your experience been like?
+Over the past few weeks, I've become a daily user of Claude Code on desktop.
 
-你试过新的 Claude Code 渲染器吗？体验如何？
+过去几周，我已经成为 Claude Code 桌面的每日用户。
 
-If you haven't, you can enable it with: CLAUDE_CODE_NO_FLICKER=1 claude
+It's the best way to kick off and manage multiple CC sessions across local and cloud in one place. You can also see git status, pin active sessions, and drag and drop layout to view multiple sessions at the same time!
 
-如果还没试过，可以这样启用：CLAUDE_CODE_NO_FLICKER=1 claude
+这是本地和云端启动、管理多个 CC 会话的最佳方式。你还可以查看 git status、固定活跃会话、用拖拽布局同时查看多个会话！
 
-🔗 [查看原文 / View Original](https://x.com/trq212/status/2043814646600348046)
-❤️ 1043 · 🔁 44
+Let us know what you think :)
+
+告诉我们你的想法 :)
+
+🔗 [查看原文 / View Original](https://x.com/_catwu/status/2044212251717186007)
+❤️ 232 · 🔁 23
+
+---
+
+### 10. @_catwu
+
+**Cat Wu** · 04-14 17:18
+
+Automate the manual repetitive parts of your work with Routines! 
+
+用 Routines 自动化工作中的手动重复部分！
+
+You can now kick off Claude Code on a schedule, from GH events, and from other APIs
+
+现在你可以按计划、从 GH events 和其他 API 触发 Claude Code。
+
+🔗 [查看原文 / View Original](https://x.com/_catwu/status/2044103103591657941)
+❤️ 121 · 🔁 8
 
 ---
 
 ### 11. @amasad
 
-**Amjad Masad** · 04-14 07:04
+**Amjad Masad** · 04-15 04:50
 
-Most people are loose with what's measurable and rigid with what's inherently fuzzy. They bend data to fit the story, but demand precision from things that don't survive contact with reality.
+I built so many one-off conversion apps — now it's just a skill.
 
-大多数人对可量化的事物很随意，却对本质上模糊的东西要求严苛。他们扭曲数据来迎合叙事，却要求那些经不起现实检验的东西保持精确。
+我以前做了很多一次性转换应用——现在这只是一个 skill。
 
-LARPing rigor.
-
-这就是在"角色扮演"严谨。
-
-🔗 [查看原文 / View Original](https://x.com/amasad/status/2043948524908490953)
-❤️ 48 · 🔁 4
+🔗 [查看原文 / View Original](https://x.com/amasad/status/2044277183766770029)
+❤️ 124 · 🔁 9
 
 ---
 
 ### 12. @amasad
 
-**Amjad Masad** · 04-14 03:41
+**Amjad Masad** · 04-14 21:11
 
-GPT-2 was actually too dangerous…ly hilarious
+Indian Replit Builders: You can now build & pay with @Razorpay 
 
-GPT-2 其实太危险了……危险的搞笑。
+印度 Replit Builders：你们现在可以用 @Razorpay 构建和支付了。
 
-🔗 [查看原文 / View Original](https://x.com/amasad/status/2043897322690752904)
-❤️ 73 · 🔁 0
-
----
-
-### 13. @amasad
-
-**Amjad Masad** · 04-13 20:15
-
-You can now configure your app hosting region. Especially useful for compliance & privacy laws.
-
-你现在可以配置应用托管区域了。对于合规和隐私法规来说尤为实用。
-
-🔗 [查看原文 / View Original](https://x.com/amasad/status/2043785145606656223)
-❤️ 202 · 🔁 21
+🔗 [查看原文 / View Original](https://x.com/amasad/status/2044161522415612096)
+❤️ 235 · 🔁 14
 
 ---
 
-### 14. @rauchg
+### 13. @rauchg
 
-**Guillermo Rauch** · 04-14 01:51
+**Guillermo Rauch** · 04-14 14:55
 
-Today we're open sourcing [Open Agents Platform](https://t.co/p76KVdY7dG), a reference platform for cloud coding agents.
+If you're thinking about making an agent coding platform, this is timely…
 
-今天我们开源了 Open Agents Platform（云端编码智能体参考平台）。
+如果你正在考虑做一个 agent 编程平台，这个时机刚刚好……
 
-You've heard that companies like Stripe (Minions), Ramp (Inspect), Spotify (Honk), Block (Goose), and others are building their own "AI software factories". Why?
+You'll want to pair app generations with a database service that's highly elastic. And Postgres-compatible. Like DSQL:
 
-你可能听说过 Stripe（Minions）、Ramp（Inspect）、Spotify（Honk）、Block（Goose）等公司都在打造自己的"AI 软件工厂"。为什么？
+你需要把应用生成和一个高度弹性、Postgres 兼容的数据库服务搭配使用。比如 DSQL：
 
-1️⃣ On a technical level, off-the-shelf coding agents don't perform well with huge monorepos, don't have your institutional knowledge, integrations, and custom workflows.
+🔗 [查看原文 / View Original](https://x.com/rauchg/status/2044067044325503404)
+❤️ 28 · 🔁 0
 
-从技术层面来说，现成的编码智能体在超大型 monorepo 中表现不佳，也无法掌握你的组织知识、集成工具和定制工作流。
+---
 
-2️⃣ On a business level, the moat of software companies will shift from 'the code they wrote', to the 'means of production' of that code. The alpha is in your factory.
+### 14. @alexalbert__
 
-从商业层面来说，软件公司的护城河将从"他们写的代码"转移到"代码的生产方式"。真正的优势在于你自己的工厂。
+**Alex Albert** · 04-14 20:01
 
-Open Agents deploys to our agentic infrastructure: Fluid for running the agent's brain, Workflow for its long-running durability, Sandbox for secure code execution, AI Gateway for multi-model tokens.
+New version of Claude Code in the desktop app dropped today with tons of new features and performance improvements. 
 
-Open Agents 部署在我们的智能体基础设施上：Fluid 运行智能体的大脑、Workflow 保证长时间运行的稳定性、Sandbox 实现安全的代码执行、AI Gateway 管理多模型令牌。
+桌面应用版 Claude Code 今天发布了新版本，新增大量功能和性能改进。
 
-(Because of our focus on Open SDKs and runtimes, this codebase is a gem even if you're not hosting on Vercel.)
+Between Cowork and Code, I've found I don't really need to open other apps (or even my terminal) to do most of my work now.
 
-（由于我们专注于开放式 SDK 和运行时，即使你不在 Vercel 上托管，这套代码库本身也是瑰宝。）
+用了 Cowork 和 Code，我发现现在大多数工作都不需要打开其他应用（甚至不需要开 terminal）。
 
-TL;DR: if you're building an internal or user-facing agentic coding platform, deploy this:
-
-一句话：如果你在构建内部或面向用户的智能体编码平台，部署这个：
-
-🔗 [查看原文 / View Original](https://x.com/rauchg/status/2043869656931529034)
-❤️ 2082 · 🔁 154
+🔗 [查看原文 / View Original](https://x.com/alexalbert__/status/2044144091395699055)
+❤️ 738 · 🔁 22
 
 ---
 
 ### 15. @levie
 
-**Aaron Levie** · 04-14 02:46
+**Aaron Levie** · 04-15 01:24
 
-The more enterprises I talk to about AI agent transformation, the more it's clear that there is going to be a new type of role in most enterprises going forward. The job is to be the agent deployer and manager in teams.
+One corollary to the fact that AI agents take real work to setup in company at scale, is that the role of the forward deployed engineer -or whatever it gets called in the future- isn't going away any time soon. 
 
-我和越多企业聊 AI 智能体转型，就越清楚：未来大多数企业都会出现一种新岗位——团队中的智能体部署和管理者。
+AI agent 在企业内部大规模部署需要大量实际工作，这个事实的一个推论是：前线部署工程师——不管未来叫什么——这个角色短期内不会消失。
 
-Here's the rough JD:
+When a vendor sells any kind of agents into an organization, you're no longer just selling a software tool that gets implemented and you're done. You're fundamentally selling some form of the actual workflow being done by your technology.
 
-以下是大致的职位描述：
+当供应商向组织销售任何类型的 agent 时，你不再只是卖一个软件工具、交付完就结束了。你本质上是在销售你的技术实际执行的某种工作流。
 
-This person will need to figure out what are the highest leverage set of workflows on a team are (either existing or new ones) where agents can actually drive significantly more value for the team and company.
+This is far closer to a customer buying from a professional services firm than implementing traditional technology.
 
-这个人需要找出团队中最高杠杆的那套工作流（无论是现有还是新的），在这些流程中智能体实际上能为团队和公司带来显著更高的价值。
+这更像是客户购买专业服务，而不是实施传统技术。
 
-In general, it's going to be in areas where if you threw compute (in the form of agents) at a task you could either execute it 100X faster or do it 100X more times than before.
+This will almost always require a deep understanding of the domain that the customer operates in, the ability to help a customer wire up their systems to support the agents, make sure all the context is setup in the right way, and help provide change management to actually get the company to adapt its business processes.
 
-一般来说，这些领域是：如果你把算力（以智能体的形式）投入一项任务，你要么能快 100 倍执行，要么能比之前多做 100 倍。
+这几乎总是需要深入了解客户运营的领域，帮助客户接入他们的系统以支持 agent，确保所有上下文以正确方式设置，并帮助进行变革管理，让公司真正适应其业务流程。
 
-Examples would be processing orders of magnitude more leads to hand them off to reps with extra customer signal, automating a contracting review and intake process, streamlining a client onboarding process to reduce as many straps as possible, setting up knowledge bases than the whole company taps into, and so on.
+The ability to do this across customers, figure out best practices in a specific industry and customer segment, take new features back to go build in the product, and so on is going to be key.
 
-例子包括：处理数量级更多的销售线索并附上额外的客户信号交给销售人员、自动化合同审查和接收流程、精简客户入职流程以尽可能减少摩擦、建立全公司都在用的知识库等等。
+跨客户做到这些、在特定行业和客户群中找出最佳实践、将新功能带回来做到产品里，这些能力将是关键。
 
-This person will figure out what the future state workflow needs to look like to drive this new form of automation, and how to connect up the various existing or new systems.
+There's no shortcut to getting this work done by the enterprise, and the vendors are going to have to do a lot of this or risk low adoption.
 
-这个人要弄清楚未来的工作流应该长什么样才能推动这种新形式的自动化，以及如何连接各种现有或新的系统。
+企业完成这项工作没有捷径，供应商必须大量投入，否则就面临采用率低的风险。
 
-The gnarly part of the work is mapping structured and unstructured data flows, figuring out the ideal workflow, getting the agent the context it needs to do the work properly, figuring out where the human interfaces with the agent and at what steps, manages evals and reviews after any major model or data change, and runs and manages the agents on an ongoing basis tracking KPIs, and so on.
+Finally, this is a big opportunity for existing and next gen professional services companies. There are all new practice areas emerging in every system integrator and consulting firm just to do this kind of work, and this is going to continue to be in demand for quite some time.
 
-这部分最难的工作是：梳理结构化和非结构化的数据流、找出理想的工作流、让智能体获得完成工作所需的上下文、确定人在哪些环节与智能体交互、在任何重大模型或数据变更后管理评估和审查，以及持续运行和管理智能体并跟踪 KPI 等等。
+最后，这对现有和下一代专业服务公司来说是一个巨大的机会。每个系统集成商和咨询公司都在涌现全新的业务领域来做这类工作，而且这种需求会持续相当长的时间。
 
-The person must be good at mapping the process and understanding where the value could be unlocked and be relatively technical, and has full autonomy to connect up business systems and drive automation.
+Yet another example of jobs that aren't actually going away.
 
-这个人必须擅长梳理流程、理解价值可以在哪里释放，而且要具备一定技术能力，并拥有连接业务系统、推动自动化的充分自主权。
+这是又一个不会消失的工作的例子。
 
-This means they're comfortable with skills, MCP, CLIs, and so on, and the company believes it's safe for them to do so.
-
-这意味着他们能熟练使用 skills、MCP、CLI 等工具，而且公司相信这样做的风险是可控的。
-
-But also great operationally and at business.
-
-但同时也要有很强的运营和商业能力。
-
-It may be an existing person repositioned, or a totally net new person in the company. There will likely need to be one or more of these people on every team, so it's not a centralized role per se.
-
-这个角色可能是现有员工转岗，也可能是公司全新招的人。每个团队可能都需要一个或多个这样的人，所以它本质上不是一个集中化的岗位。
-
-It may rile up into IT or an AI team, or live in the function and just have checkpoints with a central function.
-
-它可能归属于 IT 或 AI 团队，也可能存在于业务部门中、只是和中心化职能部门有定期对齐。
-
-This would also be a fantastic job for next gen hires who are leaning into AI, and are technical, to be able to go into.
-
-对于下一代拥抱 AI、具备技术背景的新人来说，这也是一份很棒的工作。
-
-And for anyone concerned about engineers in the future, this will be an obvious area for these skills as well.
-
-对于关心工程师未来的人而言，这也显然是一个可以施展这些技能的方向。
-
-🔗 [查看原文 / View Original](https://x.com/levie/status/2043883641366032638)
-❤️ 1265 · 🔁 132
+🔗 [查看原文 / View Original](https://x.com/levie/status/2044225408972009842)
+❤️ 525 · 🔁 36
 
 ---
 
-### 16. @ryolu_
+### 16. @garrytan
 
-**Ryo Lu** · 04-14 03:18
+**Garry Tan** · 04-15 07:20
 
-split it up, down, left, right, your way
+Vicha Ratanapakdee's killer is free. Chinese for Affirmative Action is applying for yet another grant, preparing for another gala where virtue signaling nonprofit donors can toast each other...
 
-拆开、向下、向左、向右，按你的方式来。
+Vicha Ratanapakdee 的凶手被释放了。「平权行动华人」正在申请又一个资助，准备着又一场让虚伪公益捐赠者们互相吹捧的晚宴……
 
-more customizations and multi-agent views are coming
+While our Asian American communities watch in stunned silence as our elders are murdered with no accountability. 
 
-更多自定义选项和多智能体视图即将到来。
+而我们的亚裔美国社区只能震惊地沉默，眼睁睁看着我们的长辈被杀害，无人问责。
 
-🔗 [查看原文 / View Original](https://x.com/ryolu_/status/2043891602381500583)
-❤️ 91 · 🔁 6
+🔗 [查看原文 / View Original](https://x.com/garrytan/status/2044314985518772243)
+❤️ 6 · 🔁 1
 
 ---
 
-### 17. @ryolu_
+### 17. @garrytan
 
-**Ryo Lu** · 04-13 18:54
+**Garry Tan** · 04-15 05:51
 
-come hang out if you're in SF!
+Full repo here. Thanks for trying it. 
 
-如果你在旧金山，就来玩吧！
+完整仓库在这里。感谢大家试用。
 
-🔗 [查看原文 / View Original](https://x.com/ryolu_/status/2043764673527595095)
-❤️ 162 · 🔁 4
+🔗 [查看原文 / View Original](https://x.com/garrytan/status/2044292523817062575)
+❤️ 19 · 🔁 2
 
 ---
 
 ### 18. @garrytan
 
-**Garry Tan** · 04-14 07:06
+**Garry Tan** · 04-15 05:51
 
-GBrain is an opinionated setup that is literally *my* OpenClaw/Hermes Agent setup. It's not just opinionated search but also skillpacks including a voice agent built on OpenAI Realtime (about to upgrade to Gemini Live) so your Claw can talk to you.
+GBrain is free, open source, MIT License. 
 
-GBrain 是一个很有主见的配置方案——这其实就是我的 OpenClaw/Hermes Agent 搭建方式。它不仅是带倾向性的搜索，还包含技能包，包括一个基于 OpenAI Realtime 构建的语音智能体（即将升级到 Gemini Live），让你的 Claw 能和你说话。
+GBrain 是免费的、开源的、MIT 许可。
 
-🔗 [查看原文 / View Original](https://x.com/garrytan/status/2043948971568312473)
-❤️ 10 · 🔁 1
+I built it in about 12 days with the help of a deep deep OpenClaw addiction and also my 70,000 Github Star open source agentic coding toolkit GStack. 
 
----
+我在深深的 OpenClaw 瘾和我的 7 万 GitHub Star 开源 agent 编程工具包 GStack 的帮助下，大约 12 天构建了它。
 
-### 19. @garrytan
+My personal GBrain is pushing over 17,000 pages, and counting. It knows me. 
 
-**Garry Tan** · 04-14 07:05
+我个人的 GBrain 已经超过 17,000 页了，而且还在增加。它懂我。
 
-GBrain v0.9.3 now available. Search tuning, search evals, CJK queries, and better health checks! Plus lots of security hotfixes.
-
-GBrain v0.9.3 发布了。包含搜索调优、搜索评估、中日韩查询优化和更好的健康检查！还有大量安全热修复。
-
-Ask your claw or hermes to upgrade.
-
-让你的 claw 或 hermes 升级吧。
-
-🔗 [查看原文 / View Original](https://x.com/garrytan/status/2043948627291451625)
-❤️ 33 · 🔁 1
+🔗 [查看原文 / View Original](https://x.com/garrytan/status/2044292522256806260)
+❤️ 28 · 🔁 1
 
 ---
 
-### 20. @garrytan
+### 19. @mattturck
 
-**Garry Tan** · 04-14 06:57
+**Matt Turck** · 04-14 22:10
 
-[链接内容 / Link content]
+The good news is that, while AI is also giving every VC the same investment advice, we're such independent thinkers that there is no risk of herd thinking 
 
-🔗 [查看原文 / View Original](https://x.com/garrytan/status/2043946845781799087)
-❤️ 72 · 🔁 1
+好消息是，虽然 AI 也在给每个 VC 相同的投资建议，但我们是非常独立的思想者，不存在从众思维的风险。
+
+🔗 [查看原文 / View Original](https://x.com/mattturck/status/2044176459443404984)
+❤️ 11 · 🔁 2
+
+---
+
+### 20. @zarazhangrui
+
+**Zara Zhang** · 04-15 00:28
+
+How I came up with this idea:
+1. I first realized all Chrome browsing history is saved locally in a database and can be parsed by LLM; so I was like: what can I build with this?
+2. I tried to build an extension that surfaces insights based on browser history. But I realized if I had to click a button to bring it up every time, I'm never gonna click it. I need an entry-point that I'm already visiting frequently
+3. I asked Claude, can you turn Chrome's New Tab page into the entry point? To my surprise it did just that. This is how I realized you can actually customize the New Tab page!
+4. I built a page that displays all open tabs and makes an API call to an LLM to group them into "missions", so if a mission is complete, you can close it out. But that made it slow & not super reliable
+5. I cut down the LLM feature; realized the most important thing is display tabs clearly + closing them. Also cut down 5 other things I didn't need
+
+我是怎么想到这个主意的：
+1. 首先我发现所有 Chrome 浏览历史都保存在本地数据库里，可以被 LLM 解析；于是我想：能用这个做什么？
+2. 我尝试构建一个根据浏览历史提炼洞察的扩展。但我意识到如果每次都要点按钮才能唤出，我永远不会去点它。我需要一个我本来就会频繁访问的入口。
+3. 我问 Claude：能把 Chrome 的新标签页变成入口吗？没想到它真的做到了。这让我意识到原来真的可以自定义新标签页！
+4. 我做了一个展示所有打开标签页的页面，并调用 LLM API 把它们分组为「任务」，这样任务完成后可以直接关闭。但这让它变得很慢，可靠性也不够。
+5. 我砍掉了 LLM 功能；意识到最重要的是清晰展示标签页 + 关闭它们。另外还砍掉了其他 5 个不需要的东西。
+
+🔗 [查看原文 / View Original](https://x.com/zarazhangrui/status/2044211269767704929)
+❤️ 191 · 🔁 10
 
 ---
 
 ## 🎙️ 播客更新 / Podcasts Updates
 
-### 1. AI for Atoms: How Periodic Labs is Revolutionizing Materials Engineering with Co-Founder Liam Fedus
+### 1. From SEO to Agent-Led Growth: Profound's James Cadwallader
 
-**频道 / Channel**: Unknown
-**链接 / Link**: https://www.youtube.com/@NoPriorsPodcast
+**Channel**: Unknown
+**Link**: https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8
 
-Speaker 1 | 00:05 - 00:32
-Today, know Priors were talking with Liam Fetis. Liam is one of the co creators of ChatGPT, which I think almost everybody uses at this point. He was the VP of post training at OpenAI, and before that was at Google Brain, where he worked on a variety of really early AI inno...
+Speaker 1 | 00:00 - 00:23
+We've now reached a point in marketing where if your marketing team is not using agents, and in particular, ProFound agents, to do marketing, then you are failing. It's gone from a nice to have to a must have. And I think the big misconception with using agents to build mar...
 
-今天，Priors 节目和 Liam Fetis 聊了聊。Liam 是 ChatGPT 的联合创始人之一，我想现在几乎所有人都在用 ChatGPT 了。他曾是 OpenAI 的后训练副总裁，在此之前在 Google Brain 工作，从事过很多早期 AI 创新研究……
+我们现在在营销领域已经到了一个节点：如果你的营销团队不使用 agent，尤其是 ProFound agent 来做营销，那你就落后了。它已经从「有就更好」变成了「必须有」。而且我觉得关于用 agent 做营销，最大的误解是……
 
 ---
 
 ## 📚 资源 / Resources
 
 - **Follow Builders Project**: https://github.com/zarazhangrui/follow-builders
-- **更新频率 / Update Frequency**: 推文每 6 小时一次，播客每 24 小时一次 / Tweets every 6 hours, Podcasts every 24 hours
+- **更新频率 / Update Frequency**: 推文每 6 小时，播客每 24 小时 / Tweets every 6 hours, Podcasts every 24 hours
 
 ---
 
-*生成时间 / Generated: 2026-04-15 11:08*
+*生成时间 / Generated: 2026-04-15 23:08:11*
 *By OpenClaw AI Builders Digest*
