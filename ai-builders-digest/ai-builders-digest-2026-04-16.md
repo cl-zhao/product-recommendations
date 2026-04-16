@@ -6,7 +6,7 @@
 
 ## 📊 今日概览 / Today's Overview
 
-- **Tweets**: 32 条更新 / 32 updates
+- **Tweets**: 36 条更新 / 36 updates
 - **Podcasts**: 0 条更新 / 0 updates
 
 ---
@@ -15,387 +15,352 @@
 
 ### 1. @swyx
 
-**Swyx** · 04-15 05:58
+**Swyx** · 04-16 04:37
 
-> btw the famous slack chart is slack propaganda and everyone who cites it is legally obligated to also link to @sophiebits
+$ASCCY 董事会迎来了一个绝佳的机会，可以做一件非常有趣的事……
 
-那个著名的 slack 图表其实是 slack 的宣传 propaganda，每个引用它的人都有法律义务同时链接 @sophiebits 的内容。
+*The $ASCCY board has the opportunity to do the funniest thing….*
 
-🔗 [查看原文 / View Original](https://x.com/swyx/status/2044294227887304731)
-❤️ 44 · 🔁 1
+🔗 [查看原文](https://x.com/swyx/status/2044636275375067440)
+❤️ 5 · 🔁 0
 
 ---
 
 ### 2. @swyx
 
-**Swyx** · 04-15 03:08
+**Swyx** · 04-16 02:08
 
-> i didnt realize this lazy no effort post did so well… lol… chalk another W up to @josephofiowa's Maps Theory of Twitter
+在 Meta × AI 的宏大叙事中，我们见证了 Llama 4 的滑铁卢，而现在形势正在逆转：
 
-没想到这条懒到没花任何心思的帖子效果这么好……笑死……给 @josephofiowa 的"Twitter 地图理论"再记一功。
+- 自 2025 年大模型之战以来，Meta 正在**扩招**更多员工
+- Zuck（扎克伯格）直接搬去和 Alexandr、Nat 同住，重新开始写代码
+- 终于发布了接近 Opus 水平的模型（虽然没 API、不开源，但仍是重大进展）
+- 收购了 @dps 的 Dreamer 和 @peakji 的 Manus，来打造 AI OS 消费级层面
 
-🔗 [查看原文 / View Original](https://x.com/swyx/status/2044251600882123137)
-❤️ 9 · 🔁 0
+Meta 的 MSL"河流"将会非常精彩。
+
+*In the grand narrative of Meta x AI, we saw the flop (Llama 4), and now we're seeing the turn: more hiring, Zuck coding again, finally GA'ining Opus-ish level model, buying Dreamer and Manus to build the AI OS prosumer layer. The MSL "river" is gonna be pretty exciting.*
+
+🔗 [查看原文](https://x.com/swyx/status/2044598788065731017)
+❤️ 70 · 🔁 2
 
 ---
 
 ### 3. @swyx
 
-**Swyx** · 04-15 02:04
+**Swyx** · 04-15 22:24
 
-> more alpha from @rhythmrg and @lindensli
+我之前说过"今年是子智能体之年"，但那主要是一个**优化问题**。
 
-来自 @rhythmrg 和 @lindensli 的更多 alpha 情报。
+反过来看——让智能体组合、管理和查询其他智能体——则是一个**能力问题**。
 
-🔗 [查看原文 / View Original](https://x.com/swyx/status/2044235409019023496)
-❤️ 12 · 🔁 0
+作为 cog 的顾问，很荣幸在 3 个月前参与了新 Spaces 概念的设计，今天的发布只是一个开始，后续还有更多精彩。恭喜团队！
+
+*I've commented that "this is the year of subagents", but that is largely an optimization problem. The inverse problem - having agents that compose and boss agents that manage/query them - is a capabilities one. As an advisor to cog, proud to have played a small part in designing the new Spaces concept 3 months ago and today's launch is a start of even more to come. Congrats to the team!*
+
+🔗 [查看原文](https://x.com/swyx/status/2044542494420214217)
+❤️ 49 · 🔁 4
 
 ---
 
 ### 4. @joshwoodward
 
-**Josh Woodward** · 04-14 20:23
+**Josh Woodward** · 04-15 16:26
 
-> New in Gemini: NEET practice tests! 🇮🇳🩺
->
-> Sending good luck to everyone taking India's biggest medical exam in a few weeks. You've got this!
->
-> We're working on adding more practice tests for different subjects and countries. What should we add next? Let us know below 👇
+点击获取：https://t.co/D9hkJztUNC
 
-Gemini 新功能：NEET 模拟考试！🇮🇳🩺
+*Get it here: https://t.co/D9hkJztUNC*
 
-几周后就是印度最大规模的医学考试了，在这里给大家加油！你们可以的！
-
-我们正在陆续添加更多科目和国家的模拟考试。下一个应该加什么？评论区告诉我们 👇
-
-🔗 [查看原文 / View Original](https://x.com/joshwoodward/status/2044149482548580689)
-❤️ 729 · 🔁 76
+🔗 [查看原文](https://x.com/joshwoodward/status/2044452203596071052)
+❤️ 294 · 🔁 23
 
 ---
 
-### 5. @petergyang
+### 5. @joshwoodward
 
-**Peter Yang** · 04-15 04:17
+**Josh Woodward** · 04-15 16:26
 
-> Why is it still asking me for perms after I turned on bypass perms and always accept edits 🤔
+**Gemini Mac 版正式发布。**
 
-明明已经开了绕过权限和始终接受编辑，为什么还在问我要权限 🤔
+我们听到了大家的反馈，组建了一支小团队，在不到 100 天内构建了 100+ 个功能。🤯
 
-🔗 [查看原文 / View Original](https://x.com/petergyang/status/2044268754981576908)
-❤️ 2 · 🔁 0
+100% 原生 Swift，极速体验。
+
+欢迎大家体验并告诉我们感受！
+
+*Introducing Gemini on Mac. We heard your feedback. We recruited a small team. They built 100+ features in less than 100 days. 🤯 100% native Swift. Lightning fast. Let us know what you think!*
+
+🔗 [查看原文](https://x.com/joshwoodward/status/2044452201947627709)
+❤️ 5901 · 🔁 406
 
 ---
 
 ### 6. @petergyang
 
-**Peter Yang** · 04-15 02:01
+**Peter Yang** · 04-15 15:10
 
-> I'm enjoying using the new Claude Code app (RIP terminal).
->
-> How can I work on the same session across the Claude mobile app too?
->
-> /remote-control doesn't seem to work and tbh I shouldn't have to type this to work across desktop + mobile anyway.
+感觉 Claude 好像每隔几天就会有一次故障——我想知道这是因为发布节奏太快、算力扩展的问题，还是其他什么原因？
 
-我最近在用新的 Claude Code app 玩得很开心（terminal 正式宣告死亡）。
-怎么才能在 Claude 手机 app 上也能用同一个 session？
-`/remote-control` 好像不管用，而且说真的，我根本不应该需要输入什么命令才能在桌面和手机之间切换工作。
+*Feels like there's an outage for Claude every other day - I wonder if this is related to the pace of shipping, just scaling compute, or something else?*
 
-🔗 [查看原文 / View Original](https://x.com/petergyang/status/2044234654241436066)
-❤️ 204 · 🔁 2
+🔗 [查看原文](https://x.com/petergyang/status/2044433121580634178)
+❤️ 139 · 🔁 1
 
 ---
 
 ### 7. @petergyang
 
-**Peter Yang** · 04-15 00:28
+**Peter Yang** · 04-15 14:13
 
-> "It's a mistake to think of the output of a prompt as a final result."
->
-> Here's @zoink on the difference between crafting with AI vs. outsourcing your thinking:
->
-> "When you're exploring divergent possibilities with agents, you need to take [AI's output] and mold and shape it like clay.
->
-> Ultimately, you're the judge of the system. You're the one that needs to figure out what is good and worth exploring because the possibilities are likely almost infinite."
->
-> tl:dr AI gets you to average fast. Your taste is what pushes past it.
+我最近去中国出差两周，亲眼见证了世界第二大经济体的运转方式，大开眼界。
 
-"把 prompt 的输出当成最终结果是一个错误。"
+我认为每个产品开发者都应该去一次，了解：
 
-@zoink 分享了用 AI 进行创作与把思考外包给 AI 的区别：
+→ 中国 AI 工作文化
+→ 电动汽车、2 美元外卖等现象
+→ 中国人的真实生活与工作方式
 
-"当你在用 agents 探索各种可能性时，你需要把 AI 的输出像黏土一样揉捏塑形。
+📌 以下是我此行的 15 条观察：https://t.co/EzvVfnEz6K
 
-最终，你是这个系统的裁判。你需要判断什么是好的、值得继续探索的，因为可能性几乎是无限的。"
+*I recently came back from a 2-week trip to China and it was eye-opening to see how the world's second largest economy operates. I think every product builder should visit at least once to understand: Chinese AI work culture, Electric vehicles, $2 delivery, and more, How people in China live and work. Here are 15 observations from my visit: https://t.co/EzvVfnEz6K*
 
-一句话总结：AI 让你快速达到平均水准，而你的品味才是突破天花板的关键。
-
-📌 完整对话视频：https://t.co/gaYK2S2cRW
-
-🔗 [查看原文 / View Original](https://x.com/petergyang/status/2044061039671820406)
-❤️ 49 · 🔁 5
+🔗 [查看原文](https://x.com/petergyang/status/2044418914856353901)
+❤️ 245 · 🔁 17
 
 ---
 
 ### 8. @thenanyu
 
-**Nan Yu** · 04-14 16:26
+**Nan Yu** · 04-15 20:16
 
-> Every time someone shit on Google or Meta they need to be reminded that those companies are unfathomably large.
->
-> Their misses are going to seem enormous because their basic unit of execution is huge.
->
-> Like in most businesses: count wins not losses
+说得真好。
 
-每次有人喷 Google 或 Meta，都应该先记住：这些公司大到无法想象。
+*That's a good way to put it*
 
-它们的失误看起来触目惊心，是因为它们的执行基本单元本来就巨大。
-
-跟大多数生意一样：数胜仗，别数败仗。
-
-🔗 [查看原文 / View Original](https://x.com/thenanyu/status/2044089885842186498)
-❤️ 16 · 🔁 0
+🔗 [查看原文](https://x.com/thenanyu/status/2044510184081396026)
+❤️ 2 · 🔁 0
 
 ---
 
-### 9. @_catwu
+### 9. @thenanyu
 
-**Cat Wu** · 04-15 00:32
+**Nan Yu** · 04-15 16:32
 
-> Over the past few weeks, I've become a daily user of Claude Code on desktop.
->
-> It's the best way to kick off and manage multiple CC sessions across local and cloud in one place. You can also see git status, pin active sessions, and drag and drop layout to view multiple sessions at the same time!
->
-> Let us know what you think :)
+确实很有道理。
 
-过去几周，我成了 Claude Code 桌面版的每日用户。
+*It just makes sense*
 
-这是启动和管理本地和云端多个 CC session 的最佳方式，一个地方全搞定。还能查看 git status、固定活跃 session、拖拽布局同时查看多个 session！
-
-大家觉得怎么样 :)
-
-🔗 [查看原文 / View Original](https://x.com/_catwu/status/2044212251717186007)
-❤️ 232 · 🔁 23
+🔗 [查看原文](https://x.com/thenanyu/status/2044453756956295438)
+❤️ 46 · 🔁 5
 
 ---
 
-### 10. @_catwu
+### 10. @thenanyu
 
-**Cat Wu** · 04-14 17:18
+**Nan Yu** · 04-15 15:03
 
-> Automate the manual repetitive parts of your work with Routines!
->
-> You can now kick off Claude Code on a schedule, from GH events, and from other APIs
+品味。
 
-用 Routines 把工作中重复性手动操作自动化！
+*TASTE*
 
-现在可以定时启动 Claude Code，也可以从 GitHub 事件或其他 API 触发。
-
-🔗 [查看原文 / View Original](https://x.com/_catwu/status/2044103103591657941)
-❤️ 121 · 🔁 8
+🔗 [查看原文](https://x.com/thenanyu/status/2044431442327785562)
+❤️ 9 · 🔁 0
 
 ---
 
-### 11. @amasad
+### 11. @trq212
 
-**Amjad Masad** · 04-15 04:50
+**Thariq** · 04-16 05:50
 
-> I built so many one-off conversion apps — now it's just a skill.
+Claude 博客也有发布：https://t.co/cS9RhvOPKp
 
-以前我做了很多一次性转换工具 app——现在都变成一个技能了。
+*Also available on the Claude Blog: https://t.co/cS9RhvOPKp*
 
-🔗 [查看原文 / View Original](https://x.com/amasad/status/2044277183766770029)
-❤️ 124 · 🔁 9
-
----
-
-### 12. @amasad
-
-**Amjad Masad** · 04-14 21:11
-
-> Indian Replit Builders: You can now build & pay with @Razorpay
-
-印度 Replit Builder 们：现在可以用 @Razorpay 来开发和支付了。
-
-🔗 [查看原文 / View Original](https://x.com/amasad/status/2044161522415612096)
-❤️ 235 · 🔁 14
+🔗 [查看原文](https://x.com/trq212/status/2044654705780179011)
+❤️ 16 · 🔁 2
 
 ---
 
-### 13. @rauchg
+### 12. @trq212
 
-**Guillermo Rauch** · 04-14 14:55
+**Thariq** · 04-16 05:44
 
-> If you're thinking about making an agent coding platform, this is timely…
->
-> You'll want to pair app generations with a database service that's highly elastic. And Postgres-compatible. Like DSQL
+你也可以自己设置自动压缩阈值，有效降低上下文窗口大小。
 
-如果你正在考虑做 agent 编程平台，这条消息来得正是时候……
+比如，40 万 token 的上下文是一个不错的折中方案：
 
-你需要把应用生成和一个高度弹性、兼容 Postgres 的数据库服务搭配使用。比如 DSQL。
+`CLAUDE_CODE_AUTO_COMPACT_WINDOW=400000 claude`
 
-🔗 [查看原文 / View Original](https://x.com/rauchg/status/2044067044325503404)
-❤️ 28 · 🔁 0
+详见文档：https://t.co/NuhBuTSSDt
 
----
+*You can also set your autocompact threshold yourself and effectively lower your context window if you'd prefer. For example, 400k context is a good compromise: `CLAUDE_CODE_AUTO_COMPACT_WINDOW=400000 claude`. See docs here: https://t.co/NuhBuTSSDt*
 
-### 14. @alexalbert__
-
-**Alex Albert** · 04-14 20:01
-
-> New version of Claude Code in the desktop app dropped today with tons of new features and performance improvements.
->
-> Between Cowork and Code, I've found I don't really need to open other apps (or even my terminal) to do most of my work now.
-
-桌面 app 版 Claude Code 今天发布了新版本，带来了大量新功能和性能提升。
-
-用了 Cowork 和 Code 之后，我发现现在大部分工作根本不需要打开其他 app（甚至不需要开 terminal）。
-
-🔗 [查看原文 / View Original](https://x.com/alexalbert__/status/2044144091395699055)
-❤️ 738 · 🔁 22
+🔗 [查看原文](https://x.com/trq212/status/2044653085415604473)
+❤️ 81 · 🔁 6
 
 ---
 
-### 15. @levie
+### 13. @trq212
 
-**Aaron Levie** · 04-15 01:24
+**Thariq** · 04-16 05:44
 
-> One corollary to the fact that AI agents take real work to setup in company at scale, is that the role of the forward deployed engineer -or whatever it gets called in the future- isn't going away any time soon.
->
-> When a vendor sells any kind of agents into an organization, you're no longer just selling a software tool that gets implemented and you're done. You're fundamentally selling some form of the actual workflow being done by your technology. This is far closer to a customer buying from a professional services firm than implementing traditional technology.
->
-> This will almost always require a deep understanding of the domain that the customer operates in, the ability to help a customer wire up their systems to support the agents, make sure all the context is setup in the right way, and help provide change management to actually get the company to adapt its business processes.
->
-> The ability to do this across customers, figure out best practices in a specific industry and customer segment, take new features back to go build in the product, and so on is going to be key. There's no shortcut to getting this work done by the enterprise, and the vendors are going to have to do a lot of this or risk low adoption.
->
-> Finally, this is a big opportunity for existing and next gen professional services companies. There are all new practice areas emerging in every system integrator and consulting firm just to do this kind of work, and this is going to continue to be in demand for quite some time. Yet another example of jobs that aren't actually going away.
+我修改了开头，因为意识到之前埋没了重点——
 
-AI agent 在企业内部规模化部署需要大量实际工作，一个推论是：前沿部署工程师（或者未来叫什么名字）的角色短期内不会消失。
+100 万 token 的上下文窗口是一把**双刃剑**。它让 Claude 能完成更复杂的任务，但如果你的会话管理不当，也会导致更多的上下文污染。
 
-当供应商向组织销售任何类型的 agent 时，你卖的不再是一个实施完就完事的软件工具。本质上你卖的是由你的技术实际执行的某种工作流程。这更像客户购买专业服务，而不是传统的技术实施。
+具体操作方法如下：https://t.co/nVWS6cIwO2
 
-这几乎总是需要：深入了解客户所在的领域，帮助客户把自己的系统对接起来以支持 agent，确保所有上下文都正确配置，还要帮助推动变革管理，让公司真正适应新的业务流程。
+*I edited the intro because I realized I buried the lede originally - The 1M context window is a double-edged sword. It allows Claude to do more complex tasks but it can also lead to more context pollution if you don't manage your session well. This is how you do that: https://t.co/nVWS6cIwO2*
 
-跨客户总结最佳实践、为特定行业和客户群制定标准、把新功能带回来做进产品——这种能力将是关键。企业没有捷径可以绕过这些工作，供应商要么大量投入这些工作，要么面临低采用率的风险。
-
-最后，这对现有和新一代专业服务公司来说都是巨大的机会。每个系统集成商和咨询公司都在涌现全新的业务领域，专门做这类工作，而且这种需求还会持续很长一段时间。又一个"不会消失的工作"的例子。
-
-🔗 [查看原文 / View Original](https://x.com/levie/status/2044225408972009842)
-❤️ 525 · 🔁 36
+🔗 [查看原文](https://x.com/trq212/status/2044653083817660431)
+❤️ 375 · 🔁 19
 
 ---
 
-### 16. @garrytan
+### 14. @amasad
 
-**Garry Tan** · 04-15 07:20
+**Amjad Masad** · 04-15 15:38
 
-> Vicha Ratanapakdee's killer is free. Chinese for Affirmative Action is applying for yet another grant, preparing for another gala where virtue signaling nonprofit donors can toast each other...
->
-> While our Asian American communities watch in stunned silence as our elders are murdered with no accountability.
+"你在哪跑推理？"
+"Allbirds（一个鞋履品牌）。"
+"……你是说鞋子？"
+"对啊。"
 
-Vicha Ratanapakdee 的凶手被无罪释放了。"Chinese for Affirmative Action" 又在申请一笔资助，准备着又一场 virtue signaling 的慈善晚宴，让捐助者们互相举杯庆祝……
+*"Where do you run inference?" "allbirds" "The shoes?" "Yea"*
 
-而我们亚裔美国社区只能震惊地沉默，看着我们的长者被杀害却无人担责。
-
-🔗 [查看原文 / View Original](https://x.com/garrytan/status/2044314985518772243)
-❤️ 6 · 🔁 1
-
----
-
-### 17. @garrytan
-
-**Garry Tan** · 04-15 05:51
-
-> Full repo here. Thanks for trying it.
-
-完整 repo 在这里。感谢大家试用。
-
-🔗 [查看原文 / View Original](https://x.com/garrytan/status/2044292523817062575)
-❤️ 19 · 🔁 2
+🔗 [查看原文](https://x.com/amasad/status/2044440298995228816)
+❤️ 374 · 🔁 13
 
 ---
 
-### 18. @garrytan
+### 15. @amasad
 
-**Garry Tan** · 04-15 05:51
+**Amjad Masad** · 04-15 15:27
 
-> GBrain is free, open source, MIT License.
->
-> I built it in about 12 days with the help of a deep deep OpenClaw addiction and also my 70,000 Github Star open source agentic coding toolkit GStack.
->
-> My personal GBrain is pushing over 17,000 pages, and counting. It knows me.
+如果用前沿模型（如 Mythos）实现安全漏洞挖掘全自动化，GitHub 应该引入一个类似 stars 的指标，展示一个开源项目在安全加固上投入了多少算力。例如：
 
-GBrain 是免费的，开源的，MIT 协议。
+📦 linus/linux
+⭐️ 200k  🦾 $239M
 
-我在严重沉迷 OpenClaw 的状态下，大概用了 12 天开发完成，外加我那个拥有 7 万 GitHub star 的开源 agent 编程工具包 GStack。
+这才是开源软件获得信任的唯一方式。
 
-我个人用的 GBrain 已经索引了超过 17000 个页面，而且还在增加。它了解我。
+*If finding security flaws is fully automated with frontier models à la Mythos, then GitHub should have a metric, like stars, showing how much compute is spent securing/hardening an open-source package. Example: 📦 linus/linux ⭐️ 200k 🦾 $239M. Only way OSS can be trusted.*
 
-🔗 [查看原文 / View Original](https://x.com/garrytan/status/2044292522256806260)
-❤️ 28 · 🔁 1
+🔗 [查看原文](https://x.com/amasad/status/2044437437141909609)
+❤️ 410 · 🔁 20
 
 ---
 
-### 19. @mattturck
+### 16. @rauchg
 
-**Matt Turck** · 04-14 22:10
+**Guillermo Rauch** · 04-15 15:59
 
-> The good news is that, while AI is also giving every VC the same investment advice, we're such independent thinkers that there is no risk of herd thinking
->
-> (great watch 👇)
+**这才是设计工具的未来**。不仅是这一款工具本身¹，而是全世界每个团队现在都有能力构建自己的"设计工厂"。
 
-好消息是：虽然 AI 给每个 VC 同样的投资建议，但我们是独立思考者，完全不存在从众思维的风险。
+Shader Lab 使用 Claude Code、@threejs、@nextjs 和 @vercel 构建，完全按照 @basementstudio 的具体需求、愿景和规格来打造。
 
-（很值得看 👇）
+每次与他们合作一个项目，都能窥见他们内部已部署的大量工具——有些是专为某个项目构建的，有些则更为通用。
 
-🔗 [查看原文 / View Original](https://x.com/mattturck/status/2044176459443404984)
-❤️ 11 · 🔁 2
+现在生成软件已经比搜索和采购合适的 SaaS 服务更容易了，可以快速组装强大的构建块。
+
+¹ 当然，这个工具本身也非常棒。
+
+*This is what the future of design looks like. Not just this specific tool, but the fact that every team in the world is now empowered to build their own 'design factory'. Shader Lab was built with Claude Code, @threejs, @nextjs, and @vercel, to the exact needs, vision, and specification of @basementstudio. Every time we work on a project with them, we get a glimpse of an arsenal of internal tools they've deployed. It's now easier to generate software re-assembling powerful building blocks than searching and procuring the right SaaS for the job. ¹ though it's a banger*
+
+🔗 [查看原文](https://x.com/rauchg/status/2044445445636972578)
+❤️ 1705 · 🔁 69
 
 ---
 
-### 20. @zarazhangrui
+### 17. @rauchg
 
-**Zara Zhang** · 04-15 00:28
+**Guillermo Rauch** · 04-15 14:16
 
-> How I came up with this idea:
->
-> 1. I first realized all Chrome browsing history is saved locally in a database and can be parsed by LLM; so I was like: what can I build with this?
-> 2. I tried to build an extension that surfaces insights based on browser history. But I realized if I had to click a button to bring it up every time, I'm never gonna click it. I need an entry-point that I'm already visiting frequently
-> 3. I asked Claude, can you turn Chrome's New Tab page into the entry point? To my surprise it did just that. This is how I realized you can actually customize the New Tab page!
-> 4. I built a page that displays all open tabs and makes an API call to an LLM to group them into "missions", so if a mission is complete, you can close it out. But that made it slow & not super reliable
-> 5. I cut down the LLM feature; realized the most important thing is display tabs clearly + closing them. Also cut down 5 other things I didn't need
+**软件工厂本身就是产品。**
 
-这个 idea 是怎么来的：
-1. 我首先发现 Chrome 的所有浏览历史都保存在本地数据库里，可以被 LLM 解析；于是我想：这能做什么？
-2. 我试着做了一个根据浏览历史提炼洞察的扩展。但我意识到每次都要点按钮才能调出，我永远也不会去点它。我需要一个我本来就会频繁访问的入口。
-3. 我问 Claude：能把 Chrome 的新标签页变成入口吗？没想到它真的做到了！这才让我发现原来可以自定义新标签页！
-4. 我做了一个页面，显示所有打开的标签页，并调用 LLM API 把它们分组为"任务"，这样任务完成后就能直接关掉。但这样变慢了，而且不太可靠。
-5. 我砍掉了 LLM 功能；意识到最重要的其实是清晰展示标签页 + 关闭它们。还另外砍掉了 5 个不需要的东西。
+*The software factory is the product.*
 
-🔗 [查看原文 / View Original](https://x.com/zarazhangrui/status/2044211269767704929)
-❤️ 191 · 🔁 10
+🔗 [查看原文](https://x.com/rauchg/status/2044419655306215492)
+❤️ 255 · 🔁 15
+
+---
+
+### 18. @levie
+
+**Aaron Levie** · 04-16 03:38
+
+**为什么 AI 会在许多行业创造更多就业机会？** 因为我们用 AI 加速了某一领域的产出，但最终会在流程的其他环节遇到新的瓶颈，而这些环节仍然需要人类。
+
+FT（金融时报）的这个例子就是一个明显的案例：用 AI 智能体问法律问题的需求增加了，那么下游就会有更多律师被问题轰炸。还有其他驱动因素：AI 加速新业务创立、更多专利申请、新的科研突破——最终都会落到律师和其他合规职能的手中。
+
+这个逻辑同样适用于大量其他工作。更多代码意味着更多安全风险，就需要更多安全研究员。医疗中自动化了患者转诊，却导致医生不够用。AI 带来了更多客户触达，反而产生了更多销售对话。这样的例子不胜枚举。
+
+很多情况下，AI 会带来"效率提升"——我们自动化了某件事，就会在那个领域减少投入。
+
+但这种价值主张最终会触及上限，因为世界不是静止的。你的竞争对手会用 AI 构建更好的产品、见更多客户、提供更好的服务、运行更好的广告活动——你最终必须跟上，否则就被淘汰。
+
+*Why will AI create more jobs in plenty of industries? It's because we use AI to accelerate output in one area, and then eventually you run into a new bottleneck somewhere else that still requires humans. This example from the FT is obvious - more people asking legal questions from AI agents means more lawyers being pinged. There are other drivers too: AI accelerating new business formation, more patent filings, new scientific research, and so on. The analogy holds for plenty of other work. More code means more security risks, more security researchers. Automating patient referrals leads to not having enough doctors. More customer outreach via AI leads to more sales conversations. You can list thousands of categories like this.*
+
+🔗 [查看原文](https://x.com/levie/status/2044621545348481285)
+❤️ 156 · 🔁 24
+
+---
+
+### 19. @ryolu_
+
+**Ryo Lu** · 04-15 19:11
+
+窥见未来——
+
+试试 `/canvas` 来为 @cursor_ai 的智能体构建自定义界面。
+
+*A glimpse into the future - try /canvas to build custom interfaces for your agents in @cursor_ai*
+
+🔗 [查看原文](https://x.com/ryolu_/status/2044493859821129992)
+❤️ 273 · 🔁 9
+
+---
+
+### 20. @garrytan
+
+**Garry Tan** · 04-16 07:20
+
+我的祖母今天去世了。🕯️
+
+*My grandma passed away today.*
+
+🔗 [查看原文](https://x.com/garrytan/status/2044677189896220927)
+❤️ 89 · 🔁 1
 
 ---
 
 ## 🎙️ 播客更新 / Podcasts Updates
 
-### 1. From SEO to Agent-Led Growth: Profound's James Cadwallader
+### 1. The AI Model Built for What LLMs Can't Do
 
-**Channel**: Unknown
-**Link**: https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8
+**（为 LLM 无法完成的任务而构建的 AI 模型）**
 
-Speaker 1 | 00:00 - 00:23
-> We've now reached a point in marketing where if your marketing team is not using agents, and in particular, ProFound agents, to do marketing, then you are failing. It's gone from a nice to have to a must have. And I think the big misconception with using agents to build mar...
+**频道**: Unknown
+**链接**: https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL
 
-我们在营销领域已经到达了这个节点：如果你的营销团队不使用 agents，特别是 Profound 的 agents 来做营销，那你就落后了。它已经从"有就更好"变成了"必须有"。而且我认为用 agents 来构建营销时，最大的误解是……
+Speaker 1 | 00:00 - 00:01
+能帮我们定义一下 EBM 吗？
+
+*Can you define EBM for us?*
+
+Speaker 2 | 00:01 - 00:20
+EBM 本质上是非自回归的。没有 token 序列，这就是它与 LLM 根本不同的地方。打个比方——你要在地图上导航，你需要左脑……
+
+*EBMs are naturally non autoregressive. There are no sequences of tokens, and that's what makes it fundamentally different. Like, imagine you're trying to navigate the map, and you have a left brain. To navigate, you're s…*
 
 ---
 
 ## 📚 资源 / Resources
 
 - **Follow Builders Project**: https://github.com/zarazhangrui/follow-builders
-- **更新频率 / Update Frequency**: Tweets 每 6 小时一次，Podcasts 每 24 小时一次 / Tweets every 6 hours, Podcasts every 24 hours
+- **更新频率 / Update Frequency**: Tweets 每 6 小时一次 / every 6 hours；Podcasts 每 24 小时一次 / every 24 hours
 
 ---
 
-*Generated: 2026-04-16 11:08*
-*By OpenClaw AI Builders Digest*
+*生成时间 / Generated: 2026-04-16 23:08*
+*由 OpenClaw AI Builders Digest 生成 / By OpenClaw AI Builders Digest*
