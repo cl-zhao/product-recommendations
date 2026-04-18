@@ -4,298 +4,396 @@
 
 ---
 
-## 📊 Today's Overview | 今日概览
+## 📊 今日概览 / Today's Overview
 
-- **Tweets**: 45 条更新
-- **Podcasts**: 0 条更新
+- **推文 / Tweets**: 33 条更新 / updates
+- **播客 / Podcasts**: 0 条更新 / updates
 
 ---
 
-## 🐦 Latest from AI Builders | AI 开发者动态
+## 🐦 AI Builders 最新动态 / Latest from AI Builders
 
 ### 1. @swyx
 
-**Swyx** · 04-17 00:57
+**Swyx** · 04-17 22:08
 
-@_lopopolo @aiDotEngineer @badlogicgames Slow Down talk:
-https://t.co/w6H835zxQP
+哇，Camille 居然给 Colussus 做了个专访！
 
-🔗 [View Original](https://x.com/swyx/status/2044943315938975801)
+> wow and a Colossus profile from Camille!!
+
+https://t.co/ibt7g82IjC
+
+🔗 [查看原文 / View Original](https://x.com/swyx/status/2045263229329580420)
 ❤️ 0 · 🔁 0
 
 ---
 
 ### 2. @swyx
 
-**Swyx** · 04-17 00:57
+**Swyx** · 04-17 18:05
 
-@_lopopolo @aiDotEngineer @badlogicgames Harness Engineering talk:
-https://t.co/1SEZMSUBTc
+这真是势均力敌啊哈哈！
 
-🔗 [View Original](https://x.com/swyx/status/2044943275199762455)
-❤️ 3 · 🔁 0
+> it's neck and neck lol!
+
+https://t.co/jyXCeYsrWT
+
+🔗 [查看原文 / View Original](https://x.com/swyx/status/2045202026020421951)
+❤️ 5 · 🔁 0
 
 ---
 
 ### 3. @swyx
 
-**Swyx** · 04-17 00:40
+**Swyx** · 04-17 17:05
 
-**EN**: In retrospect, putting the slop cannons (@_lopopolo) on @aiDotEngineer talks day 1 and putting the grown ups (@badlogicgames) on talks day 2 is working out pretty well for faithfully representing the most important split in AI engineering right now.
+感谢 @steipete 让我在 AMA 中以"ClosedClaw 的未来是什么"开场 😈
 
-**回溯来看，把"废话大炮"(@_lopopolo)放在 @aiDotEngineer 活动第一天的分享，把"老练的工程师"(@badlogicgames) 放在第二天的分享，这个安排很好地忠实地呈现了当前 AI 工程领域最重要的分化。**
+> grateful to @steipete for prompting me to start the AMA with "what's the future of ClosedClaw"? 😈
 
-🔗 [View Original](https://x.com/swyx/status/2044939001405350235)
-❤️ 32 · 🔁 5
+https://t.co/4s9SkNTEsu https://t.co/nyFNO6hDZx
+
+🔗 [查看原文 / View Original](https://x.com/swyx/status/2045186912009458104)
+❤️ 18 · 🔁 0
 
 ---
 
-### 4. @kevinweil
+### 4. @joshwoodward
 
-**Kevin Weil** · 04-17 05:02
+**Josh Woodward** · 04-18 00:55
 
-**EN**: The new Codex computer use is shockingly good.
+太激动了！
 
-**新的 Codex computer use 效果出奇地好。**
+> Excited about this!
 
-🔗 [View Original](https://x.com/kevinweil/status/2045004924682195027)
-❤️ 148 · 🔁 2
+ProducerAI 现已更名为 Google Flow Music
+
+> ProducerAI is now Google Flow Music
+
+使命不变：拓展创作的边界 🎹🎸
+让用户更好地控制自己的音轨
+快去试试新的 remix 功能吧！
+
+> Same mission: push the creative boundaries 🎹🎸
+> Giving people more control over their tracks
+> Check out the new remix feature!
+
+https://t.co/di9llPiegC
+
+🔗 [查看原文 / View Original](https://x.com/joshwoodward/status/2045305262362530043)
+❤️ 130 · 🔁 9
 
 ---
 
 ### 5. @kevinweil
 
-**Kevin Weil** · 04-16 19:37
+**Kevin Weil** · 04-17 19:58
 
-**EN**: See our blog post for videos and demos. Request access to GPT-Rosalind here. Life Sciences plugin: (link)
+今天是我在 OpenAI 的最后一天，因为 OpenAI for Science 团队将被拆分到其他研究团队中。这两年的经历彻底拓展了我的认知——从首席产品官到加入研究团队、创办 OpenAI for Science。加速科学发展将成为我们迈向 AGI 过程中最令人惊叹的成果之一，我为 @sama @markchen90 @fidjissimo @gdb @merettm 以及整个团队加油！
 
-**详见官方博客文章和演示视频。申请 GPT-Rosalind 访问权限请到这里。生命科学插件现已上线。**
+> Today is my last day at OpenAI, as OpenAI for Science is being decentralized into other research teams. It's been a mind-expanding two years, from Chief Product Officer to joining the research team and starting OpenAI for Science. Accelerating science will be one of the most stunningly positive outcomes of our push to AGI, and I'm rooting for @sama @markchen90 @fidjissimo @gdb @merettm and the whole team!
 
-🔗 [View Original](https://x.com/kevinweil/status/2044862785201565840)
-❤️ 48 · 🔁 2
+🔗 [查看原文 / View Original](https://x.com/kevinweil/status/2045230426210648348)
+❤️ 3558 · 🔁 107
 
 ---
 
-### 6. @kevinweil
+### 6. @petergyang
 
-**Kevin Weil** · 04-16 19:37
+**Peter Yang** · 04-18 02:56
 
-**EN**: Super excited to launch GPT-Rosalind, our first frontier model built for scientific research across biology, drug discovery, and translational medicine. The model is trained in chemistry, protein engineering, genomics and more, including built-in knowledge of relevant databases and tools researchers use. We want to make these capabilities available to scientists and researchers while maintaining strong safeguards against biological misuse. GPT-Rosalind is launching through a trusted access deployment structure for qualified customers. We're also launching a Life Sciences plugin for Codex to everyone today, which works with our mainline models as well as GPT-Rosalind.
+Anthropic 也应该每天发布模型啊，就像他们的其他产品一样——期待 Opus 4.18.2026！
 
-**非常激动地宣布推出 GPT-Rosalind，这是我们首款专为科学研究打造的前沿模型，涵盖生物学、药物发现和转化医学等领域。模型在化学、蛋白质工程、基因组学等方面进行了训练，并内置了研究人员使用的相关数据库和工具知识。我们希望将这些能力带给科学家和研究人员，同时对生物滥用风险保持严格的防护措施。GPT-Rosalind 将通过可信访问部署机制向合格客户开放。今天我们还向所有用户推出 Codex 生命科学插件，可与主线模型及 GPT-Rosalind 配合使用。**
+> Anthropic should just ship models daily too like the rest of their products - can't wait for Opus 4.18.2026 tmr
 
-🔗 [View Original](https://x.com/kevinweil/status/2044862783947448611)
-❤️ 772 · 🔁 56
+🔗 [查看原文 / View Original](https://x.com/petergyang/status/2045335553059746259)
+❤️ 35 · 🔁 0
 
 ---
 
 ### 7. @petergyang
 
-**Peter Yang** · 04-17 05:12
+**Peter Yang** · 04-18 02:51
 
-**EN**: Claude and Codex apps should build an easy way to view and edit markdown files from web and mobile if I want to hand craft the last 10% of instructions.
+.@steipete 永远改变了我对产品的认知（"你可以让 AI 做那个？!"），这个视频真的很值得看
 
-**Claude 和 Codex 应用应该做一个简单的方式，让用户在网页和移动端查看和编辑 markdown 文件——用于手动打磨那最后 10% 的指令。**
+> .@steipete changed how I think about products forever ("you can get AI to do that?!") and this is a great watch
 
-🔗 [View Original](https://x.com/petergyang/status/2045007422084051168)
-❤️ 26 · 🔁 0
+https://t.co/88LptneAa6
+
+🔗 [查看原文 / View Original](https://x.com/petergyang/status/2045334450461192270)
+❤️ 82 · 🔁 3
 
 ---
 
 ### 8. @petergyang
 
-**Peter Yang** · 04-17 04:36
+**Peter Yang** · 04-18 01:03
 
-**EN**: When I build skills now I always ask AI to spin up a separate eval agent to do yes/no checks to grade the first agent's output. And if the output isn't "yes" across the board it asks the first agent to keep working. Building one for YouTube thumbnails and titles now.
+@AnthropicAI 我用 Claude Design 玩得太开心了！
 
-**现在我构建 skill 时，总是让 AI 启动一个独立的评估 agent，用 yes/no 检查来评价第一个 agent 的输出。如果输出没有全部通过"yes"，就让它继续工作。目前正在做一个用于 YouTube 缩略图和标题的评估 agent。**
+> Having ALOT of fun with Claude Design.
 
-🔗 [View Original](https://x.com/petergyang/status/2044998456062906422)
-❤️ 15 · 🔁 0
+这是我刚做的演示视频，展示 5 个用例：视频、幻灯片、网站、移动端 App，甚至还有设计系统。
 
----
+> Here's a video I just made demoing 5 use cases including videos, slides, websites, mobile apps, and even a design system.
 
-### 9. @petergyang
+📌 立即观看 / Watch now: https://t.co/vYMCY11TPx
 
-**Peter Yang** · 04-17 03:10
-
-**EN**: Why do any real work when you can just migrate from OpenClaw → Hermes → Perplexity Computer → OpenClaw again.
-
-**既然可以不断在 OpenClaw → Hermes → Perplexity Computer → OpenClaw 之间反复横跳，为什么还要做真正的活儿呢。**
-
-🔗 [View Original](https://x.com/petergyang/status/2044976766914265097)
-❤️ 73 · 🔁 1
+🔗 [查看原文 / View Original](https://x.com/petergyang/status/2045307149740609591)
+❤️ 31 · 🔁 3
 
 ---
 
-### 10. @thenanyu
+### 9. @GoogleLabs
 
-**Nan Yu** · 04-16 23:36
+**Google Labs** · 04-17 21:19
 
-**EN**: It's like how the crypto industry reinvented every existing financial industry concept, only this happens much faster. Congrats us.
+我们见证了你们用 @FlowbyGoogle 创造不可能……今天，Flow 家族迎来了新成员。🚀
 
-**就像加密行业把金融行业的一切概念都重新发明了一遍一样，只是这次发生得更快。大家同喜。**
+隆重推出 @googleflowmusic（前身为 ProducerAI）——一个帮助你创作、分享和混音原创音乐的平台。通过自然语言提示，你就能将想象变为完整的音乐作品。
 
-🔗 [View Original](https://x.com/thenanyu/status/2044922841208918031)
-❤️ 1 · 🔁 0
+> We've watched you create the impossible with @FlowbyGoogle… today, the Flow family is growing. 🚀
+>
+> Meet @googleflowmusic (formerly ProducerAI) - a standalone site that helps you create, share, and remix original music. Using natural language prompts, you can turn your imagination into fully produced tracks.
 
----
+🌊 Flow = 图片与视频 / Images & Videos
+🎵 Flow Music = 歌曲与播放列表 / Songs & Playlists
 
-### 11. @thenanyu
-
-**Nan Yu** · 04-16 23:35
-
-**EN**: And of course engineers. (link)
-
-**当然还有工程师们。**
-
-🔗 [View Original](https://x.com/thenanyu/status/2044922579891191852)
-❤️ 3 · 🔁 0
+🔗 [查看原文 / View Original](https://x.com/GoogleLabs/status/2045250788864495874)
+❤️ 1204 · 🔁 150
 
 ---
 
-### 12. @thenanyu
+### 10. @amasad
 
-**Nan Yu** · 04-16 23:34
+**Amjad Masad** · 04-18 03:56
 
-**EN**: Also product managers. (link)
+期待这个！/ Excited for this!
 
-**还有产品经理们。**
+https://t.co/eSkdnsRKOo
 
-🔗 [View Original](https://x.com/thenanyu/status/2044922422147653763)
-❤️ 5 · 🔁 0
-
----
-
-### 13. @_catwu
-
-**Cat Wu** · 04-16 16:30
-
-**EN**: Excited to centralize our updates in one place!
-
-**很高兴能把我们的更新集中到一个地方！**
-
-🔗 [View Original](https://x.com/_catwu/status/2044815645699928273)
-❤️ 768 · 🔁 15
+🔗 [查看原文 / View Original](https://x.com/amasad/status/2045350848985968796)
+❤️ 84 · 🔁 5
 
 ---
 
-### 14. @_catwu
+### 11. @amasad
 
-**Cat Wu** · 04-16 16:02
+**Amjad Masad** · 04-17 17:51
 
-**EN**: We've set the default effort level for Opus 4.7 to xhigh in Claude Code. You can use /effort to adjust this. Excited for you to try Claude Code with Opus 4.7 and let us know your feedback!
+用动画打开病毒传播的大门。/ Animate your way to virality.
 
-**我们在 Claude Code 中将 Opus 4.7 的默认 effort level 设为 xhigh。你可以用 /effort 来调整。很期待大家试试 Claude Code 搭配 Opus 4.7，并给我们反馈！**
+https://t.co/MjifUd2nRz
 
-🔗 [View Original](https://x.com/_catwu/status/2044808539663978970)
-❤️ 61 · 🔁 1
-
----
-
-### 15. @_catwu
-
-**Cat Wu** · 04-16 16:02
-
-**EN**: Tell the model how to verify its changes. Put your testing workflow in your claude.md, or add a /verify-app skill. Opus 4.7 is better at verifying its work, and it's helpful to share any local dev tips that are hard to discover.
-
-**告诉模型如何验证它的改动。把你的测试流程写在 claude.md 里，或者添加一个 /verify-app skill。Opus 4.7 更擅长验证自己的工作，分享一些难以发现的本地开发技巧也很有帮助。**
-
-🔗 [View Original](https://x.com/_catwu/status/2044808538351100377)
-❤️ 69 · 🔁 1
+🔗 [查看原文 / View Original](https://x.com/amasad/status/2045198577941844178)
+❤️ 112 · 🔁 3
 
 ---
 
-### 16. @trq212
+### 12. @amasad
 
-**Thariq** · 04-16 21:39
+**Amjad Masad** · 04-17 17:51
 
-**EN**: Finally, we've been talking to lots of users about helping them make the most of Claude Code. We'll be sharing more this week on that work, starting with our updates to /usage.
+我最近真的很喜欢这个功能。它特别擅长预测那些微小但重要的改进——你的 App 可以变得更好。
 
-**最后，我们一直在和许多用户交流，了解如何帮助他们更好地使用 Claude Code。本周我们将分享更多相关进展，首先从 /usage 的更新开始。**
+> I've been really enjoying this feature. It's specially good at anticipating minor but important improvements you can make to your app.
 
-🔗 [View Original](https://x.com/trq212/status/2044893587691958320)
-❤️ 94 · 🔁 2
+https://t.co/XnRK0QGgXz
 
----
-
-### 17. @trq212
-
-**Thariq** · 04-16 21:39
-
-**EN**: We're running monthly 'what we shipped' webinars. You can sign up for that and our other webinars here.
-
-**我们每月举办一次"我们发布了什么"网络研讨会。可以在这里报名参加这个及其他活动。**
-
-🔗 [View Original](https://x.com/trq212/status/2044893586333032627)
-❤️ 159 · 🔁 9
+🔗 [查看原文 / View Original](https://x.com/amasad/status/2045198476385104372)
+❤️ 96 · 🔁 2
 
 ---
 
-### 18. @trq212
+### 13. @alexalbert__
 
-**Thariq** · 04-16 21:39
+**Alex Albert** · 04-17 15:40
 
-**EN**: Next, we've added a curated "What's New" section to our docs with all of the most important announcements as a digest.
+现在任何有愿景的人都能做出高质量的设计了——只需借助 Claude 的一点点帮助。
 
-**此外，我们还在文档中新增了一个精选的"What's New"板块，以摘要形式汇总所有最重要的公告。**
+> Everyone with a vision can produce very high-quality designs now (with a lil help from Claude)
 
-🔗 [View Original](https://x.com/trq212/status/2044893584961556767)
-❤️ 174 · 🔁 2
+https://t.co/uR1cR5P2kp
 
----
-
-### 19. @amasad
-
-**Amjad Masad** · 04-17 01:36
-
-**EN**: You can turn your web app into an iOS app for less than $10.
-
-**不到 10 美元，你就可以把 Web 应用变成一个 iOS 应用。**
-
-🔗 [View Original](https://x.com/amasad/status/2044953138957025707)
-❤️ 278 · 🔁 10
+🔗 [查看原文 / View Original](https://x.com/alexalbert__/status/2045165630421364853)
+❤️ 552 · 🔁 14
 
 ---
 
-### 20. @amasad
+### 14. @alexalbert__
 
-**Amjad Masad** · 04-16 18:33
+**Alex Albert** · 04-17 15:14
 
-**EN**: 50% off — especially useful to run parallel agents and make faster progress on your project!
+很多人昨天初次尝试 Opus 4.7 时遇到的 bug 现在都已修复。感谢大家的耐心等待 🙏
 
-**五折优惠——特别适合用来跑并行 agent，加速项目进展！**
+> A lot of bugs that folks may have hit yesterday when first trying Opus 4.7 are now fixed. Thanks for bearing with us 🙏
 
-🔗 [View Original](https://x.com/amasad/status/2044846551072419994)
-❤️ 159 · 🔁 8
+https://t.co/1O3sMbI5Q9
 
----
-
-## 🎙️ Podcasts Updates | 播客动态
-
-### 1. Notion's Token Town: 5 Rebuilds, 100+ Tools, MCP vs CLIs and the Software Factory Future — Simon Last & Sarah Sachs of Notion
-
-**Channel**: Unknown
-**Link**: https://www.youtube.com/@LatentSpacePod
-
-**EN**: This episode covers Notion's Token Town with Simon Last and Sarah Sachs, discussing 5 rebuilds, 100+ tools, MCP vs CLIs and the software factory future.
-
-**本期节目中，Simon Last 和 Sarah Sachs 讨论了 Notion 的 Token Town，涵盖 5 次重建、100+ 工具、MCP 与 CLI 的对比，以及软件工厂的未来。**
-
-Speaker 1 | 00:00 - 00:08
-Broadly speaking, I'm really bullish on CLIs. I'm still bullish on MCPs in a certain environment. I think it'd be really great for when you want, like, a narrow lightweight agent.
-
-Speaker 2 | 00:08 - 00:10
-There's definitely a lot of use cases where you...
+🔗 [查看原文 / View Original](https://x.com/alexalbert__/status/2045159041283064095)
+❤️ 1139 · 🔁 43
 
 ---
 
-## 📚 Resources | 资源
+### 15. @levie
+
+**Aaron Levie** · 04-18 04:16
+
+在 AI Agent 使用工具频率比人类高 100 倍的世界里，软件走向无头化（headless）是必然的。而现实是，对很多软件来说，这实际上是这些平台潜在用例的巨大红利。
+
+> Software going headless is inevitable in a world where agents use the tools 100X more than people do. And the reality is for a lot of software this is actually a huge boon to potential use-cases for these platforms.
+
+软件商业模式在很大程度上取决于特定岗位的用户数量，而且软件的使用量受限于人类一天能完成的工作量。这意味着你的技术相对于它真正能为客户赋能的能力，往往被大大低估了。
+
+> Software business models have largely been predicated on selling to the number of seats that are in the company in a given function, and the usage of your software is constrained by how much people can do in a given day. This means that your technology is often vastly underutilized relative to what it actually can power for the customer.
+
+进入 Agent 时代。Agent 可以全天候 24/7 工作，可以并行运行，可以在不同系统间串联工作。这意义重大——因为现在 Agent 能做的事远超人类。这些工具可以处理的合同不再是一份一份，而是一批一批；可以在营销系统间自动迁移数据，同时运行 10 倍以上的营销活动；可以在客户入职流程中不受人类步骤限制地加速流程。
+
+> Enter: agents. Agents can work 24/7, run in parallel, and string together work across systems. This is a big deal because now the agent can do far more than people ever could with these tools. Instead of reviewing contracts one by one, the agent will review all of them. Instead of manually moving data between marketing systems and across campaigns, the agent will let you run 10X more of them. Instead of being rate limited in a client onboarding process by human steps, agents accelerate these.
+
+最终，Agent 使用这些底层平台的频率远超人类以往，这为平台打开了以前无法触及的用例空间。
+
+> Agents end up using these underlying platforms far more than people ever did, which opens up use-cases that the platform couldn't go after before.
+
+当然，不是每个软件市场的人和 Agent 之间都有同样多的正和用例，但我要说，很大一部分系统级记录软件（例如）可以被利用的程度远超今天。你的 Salesforce 数据可以被 100 倍地利用来做更精准的客户定位和销售自动化。你的文档可以转化为结构化数据并被分析以获取洞察，自动化其他工作流程。诸如此类。
+
+> Now, not every software market has the same amount of positive sum use-cases between people and agents, but I'd argue that a significant portion of systems of record, for instance, can be used far more than they are today. Your Salesforce data can be leveraged 100X more to do vastly more customer targeting and sales automation. Your documents can be turned into structured data and analyzed for insights and knowledge to automate other workflows. And so on.
+
+当然，你必须找到一种方式让这一切在商业上具有吸引力，但不难想象这些平台上的 API 和 Agent 消费收入最终会成为收入来源的重要组成部分。人类买席位，Agent 消耗计算资源。这里面有很大的上涨空间。
+
+> Now, of course you have to find a way to make this all commercially attractive, but it's not hard to picture the revenue from API and agent consumption on these platforms becoming a rich component of revenue streams over time. Seats for the people, consumption for the agents. Lots of upside here for the companies that embrace this trend.
+
+🔗 [查看原文 / View Original](https://x.com/levie/status/2045355693050655048)
+❤️ 292 · 🔁 22
+
+---
+
+### 16. @levie
+
+**Aaron Levie** · 04-17 13:50
+
+未来 Agent 使用软件的频率将比人类高 100 倍。因此，企业平台将走向无头化（headless），能够与平台内外的任何 Agent 协同工作。不这样做就等于死路一条。
+
+> Agents are going to use software 100X more than people will in the future. As a result, enterprise platforms will become headless and be able to work with any agent on or off platform. If you don't do that you're DOA.
+
+有些人对这件事的误判在于——这为这些平台创造的用例远比 AI 出现前甚至还要多。这不是零和游戏。软件的价值主张传统上受限于公司里有多少用户。Agent 没有上限。
+
+> What some have missed is that this creates vastly more use-cases for these platforms than even existed pre-AI. This isn't zero sum. Software value props have traditionally been capped at the number of users you have in a company. Agents have no upper limit.
+
+我们将让 Agent 以人类永远无法达到的规模处理数据，它们将全天候 24/7 并行运行为我们工作，而且它们可以跨系统集成工作流，产生全新的价值主张。
+
+> We're going to run agents to process data at a scale humans never could, they're going to be running 24/7 in parallel doing work for us, and they can integrate workflows across systems to generate all new value propositions.
+
+一旦你接受了这种方法，就会明显看到这里面有多大的上涨空间。
+
+> Once you embrace this approach, it becomes obvious how much more upside there is.
+
+🔗 [查看原文 / View Original](https://x.com/levie/status/2045137708620906573)
+❤️ 1576 · 🔁 161
+
+---
+
+### 17. @ryolu_
+
+**Ryo Lu** · 04-18 02:58
+
+最好的 Agent = 最好的 harness + 最好的模型 + 可以在任何地方运行
+
+> best agent = best harness + best models + runs anywhere
+
+@cursor_ai https://t.co/Iem58nqnVE
+
+🔗 [查看原文 / View Original](https://x.com/ryolu_/status/2045336089867825157)
+❤️ 107 · 🔁 5
+
+---
+
+### 18. @garrytan
+
+**Garry Tan** · 04-18 05:45
+
+我觉得 OpenClaw 就像法拉利，而 Hermes Agent 可能……就像本田雅阁。👀
+
+> I guess OpenClaw is like the Ferrari, and Hermes Agent might be... like the Honda Accord. 👀
+
+🔗 [查看原文 / View Original](https://x.com/garrytan/status/2045378112846983496)
+❤️ 43 · 🔁 2
+
+---
+
+### 19. @garrytan
+
+**Garry Tan** · 04-18 05:28
+
+OpenClaw 给自己做「脑外科手术」然后因为改了自己的配置而死机，我损失的时间简直无法计数。
+
+> Literally can count the hours I have lost as OpenClaw decides to do brain surgery on itself and then ends up dying from an edit it did to its own config
+
+🔗 [查看原文 / View Original](https://x.com/garrytan/status/2045373889044472259)
+❤️ 211 · 🔁 4
+
+---
+
+### 20. @garrytan
+
+**Garry Tan** · 04-18 05:21
+
+https://t.co/K2Sx8Cb4tz
+
+🔗 [查看原文 / View Original](https://x.com/garrytan/status/2045372015213978106)
+❤️ 19 · 🔁 0
+
+---
+
+### 21. @alexalbert__
+
+**Alex Albert** · 04-18 01:34
+
+Anthropic 今天发布了 Opus 4.7！
+
+> Anthropic dropped Opus 4.7 today!
+
+🔗 [查看原文 / View Original](https://x.com/alexalbert__/status/2045330686945099392)
+❤️ 0 · 🔁 0
+
+---
+
+### 22. @alexalbert__
+
+**Alex Albert** · 04-18 01:34
+
+我们把 Opus 4 的架构拆解做成了视频——值得一看！
+
+> We put together a video breaking down the Opus 4 architecture - worth a watch!
+
+https://t.co/7cPlX9Gq4i
+
+🔗 [查看原文 / View Original](https://x.com/alexalbert__/status/2045330685417624068)
+❤️ 0 · 🔁 0
+
+---
+
+## 🎙️ 播客更新 / Podcasts Updates
+
+### 1. Scaling Global Organizations in the Age of AI with ServiceNow CEO Bill McDermott
+
+**频道 / Channel**: Unknown
+**链接 / Link**: https://www.youtube.com/@NoPriorsPodcast
+
+Speaker 1 | 00:00 - 00:40
+在人们谈论的 SaaS 大逃杀中更换企业平台的成本是极其昂贵的。让我们算一下这个成本，然后对比一下因为平台在处理某件事时人类资本本应该去做别的事情而产生的相关成本……
+
+> The cost to replace an enterprise platform in this SaaS apocalypse that people talk about is an extraordinary expense. Let's take that cost, and then let's take the cost associated with the human capital doing that instead of something else because the platform was doing th...
+
+---
+
+## 📚 资源 / Resources
 
 - **Follow Builders Project**: https://github.com/zarazhangrui/follow-builders
-- **更新频率**: Tweets 每 6 小时更新，Podcasts 每 24 小时更新
+- **更新频率 / Update Frequency**: 推文每 6 小时，播客每 24 小时 / Tweets every 6 hours, Podcasts every 24 hours
 
 ---
 
-*Generated: 2026-04-18 11:08:32*
+*生成时间 / Generated: 2026-04-18 23:08:34*
 *By OpenClaw AI Builders Digest*
