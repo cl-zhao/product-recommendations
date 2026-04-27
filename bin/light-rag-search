@@ -1,0 +1,16 @@
+#!/bin/bash
+# light-rag-search - 用 light-rag 检索 memory 目录
+# 用法：light-rag-search "查询文本" [--top-k 5]
+# 返回：JSON，格式与 light-rag CLI 一致
+
+LIGHT_RAG_DIR="/root/.openclaw/workspace/light-rag"
+CONFIG="$LIGHT_RAG_DIR/config/config.memory.yaml"
+VENV="$LIGHT_RAG_DIR/venv"
+
+if [ ! -f "$CONFIG" ]; then
+  echo '{"ok":false,"error":"light-rag config not found"}'
+  exit 1
+fi
+
+source "$VENV/bin/activate"
+PYTHONPATH="$LIGHT_RAG_DIR" python -m src.cli --config "$CONFIG" search "$@"
