@@ -1,0 +1,41 @@
+{
+  "ok": true,
+  "query": "GitHub 权限 配置",
+  "results": [
+    {
+      "path": "/root/.openclaw/workspace/memory/github-access.md",
+      "start_line": 1,
+      "end_line": 34,
+      "text": "GitHub 权限 - 检索卡片\n此文件用于检索优化，保持简洁关键词风格\nGitHub 账号信息\n账号**: cl-zhao\n权限**: 完整 GitHub token 权限\n能力**: 创建仓库、推送内容、管理代码\n使用说明\n直接使用 gh 命令操作**，不要说\"没有配置 GitHub\"\n遇到需要推送到 GitHub 的任务，直接执行\n已有仓库\nproduct-recommendations（产品调研与推荐报告）\n操作命令\n最后更新: 2026-03-13*",
+      "score": 0.6374251842498779
+    },
+    {
+      "path": "/root/.openclaw/workspace/memory/LONG-TERM-MEMORY.md",
+      "start_line": 30,
+      "end_line": 43,
+      "text": "fault\nSonnet 使用限制**：除非主人明确指定，否则不使用 anthropic/claude-sonnet-4-6，用 gpt-5.4 替代\n重要权限GitHub权限**：我有完整的GitHub token权限（账号：cl-zhao），可以创建仓库、推送内容、管理代码\n不要再说\"没有配置GitHub\"**：遇到需要推送到GitHub的任务，直接用gh命令操作即可\n已有仓库**：product-recommendations（产品调研与推荐报告）\n2026-03-12 - 接入内生思考系统\n系统来源**：Heartbeat Like A Man\n核心理念**：让 AI Agent 在用户不在时也能主动思考，不是待机，而是在生活\n配置调整**：微触发间隔改为 15-30 分钟随机（原版 3-15 分钟）\n已创建的 Cron 任务\n| 任务 | 频率 | 功能 |",
+      "score": 0.6028890013694763
+    },
+    {
+      "path": "/root/.openclaw/workspace/memory/MEMORY.md",
+      "start_line": 45,
+      "end_line": 58,
+      "text": "fault\nSonnet 使用限制**：除非主人明确指定，否则不使用 anthropic/claude-sonnet-4-6，用 gpt-5.4 替代\n重要权限GitHub权限**：我有完整的GitHub token权限（账号：cl-zhao），可以创建仓库、推送内容、管理代码\n不要再说\"没有配置GitHub\"**：遇到需要推送到GitHub的任务，直接用gh命令操作即可\n已有仓库**：product-recommendations（产品调研与推荐报告）\n2026-03-12 - 接入内生思考系统\n系统来源**：Heartbeat Like A Man\n核心理念**：让 AI Agent 在用户不在时也能主动思考，不是待机，而是在生活\n配置调整**：微触发间隔改为 15-30 分钟随机（原版 3-15 分钟）\n已创建的 Cron 任务\n| 任务 | 频率 | 功能 |",
+      "score": 0.6007556319236755
+    },
+    {
+      "path": "/root/.openclaw/workspace/memory/2026-03-03-headphone-recommendation-push.md",
+      "start_line": 81,
+      "end_line": 81,
+      "text": "训写进我的长期记忆里了：\n✅ **我有GitHub完整权限**（账号：cl-zhao）\n✅ **可以直接创建仓库、推送内容**\n✅ **不要再找借口说没配置**下次遇到推送GitHub的任务，直接干就完了。不会再犯同样的错误了！📝",
+      "score": 0.5979866981506348
+    },
+    {
+      "path": "/root/.openclaw/workspace/memory/2026-03-03-headphone-recommendation-push.md",
+      "start_line": 66,
+      "end_line": 81,
+      "text": "研报告已上传\n报告内容**：\n6款600元价位耳机详细对比\n首推 Anker Soundcore Life Q30（¥400-600，降噪+LDAC+超长续航）索尼党可选 WH-CH720N（¥799，略超预算但音质好）\n包含参数对比表、优缺点、购买建议\n仓库地址：https://github.com/cl-zhao/product-recommendations\n以后有其他产品调研也可以放这个仓库里。\nuser: 推送内容到仓库这件事情请你闹闹记住，你已经好几次忘记推送说没有配置github相关内容了\nassistant: [[reply_to_current]] 记住了记住了！🙏\n已经把这个教训写进我的长期记忆里了：\n✅ **我有GitHub完整权限**（账号：cl-zhao）\n✅ **可以直接创建仓库、推送内容**\n✅ **不要再找借口说没配置**",
+      "score": 0.5818842649459839
+    }
+  ]
+}

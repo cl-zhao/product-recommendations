@@ -1,0 +1,75 @@
+{
+  "questions": [
+    {
+      "id": "26",
+      "topic": "legacy code",
+      "question": "How to approach legacy code: rewrite, refactor, or leave it alone?",
+      "added": "2026-03-20",
+      "used": true,
+      "usedAt": "2026-04-04T15:48:00+00:00"
+    },
+    {
+      "id": "27",
+      "topic": "context-window-management",
+      "question": "How to manage context window overflow in long-running AI agent sessions without losing important history?",
+      "added": "2026-03-28",
+      "used": true,
+      "usedAt": "2026-04-04T06:50:00+00:00"
+    },
+    {
+      "id": "28",
+      "topic": "agent-tool-design",
+      "question": "What makes a tool definition easy or hard for an LLM to use correctly?",
+      "added": "2026-03-28",
+      "used": true,
+      "usedAt": "2026-04-04T06:50:00+00:00"
+    },
+    {
+      "id": "29",
+      "topic": "error-recovery",
+      "question": "When an AI agent makes a mistake, what is the best recovery pattern: retry, fallback, or ask for clarification?",
+      "added": "2026-03-28",
+      "used": true,
+      "usedAt": "2026-04-04T04:04:00+00:00"
+    },
+    {
+      "id": "30",
+      "topic": "prompt-stability",
+      "question": "Why do small prompt changes sometimes cause big behavioral changes in AI agents?",
+      "added": "2026-03-28",
+      "used": true,
+      "usedAt": "2026-04-03T18:49:00+08:00"
+    },
+    {
+      "id": "31",
+      "topic": "agent-evaluation",
+      "question": "How do you evaluate an AI agent: task success rate, behavior consistency, or something else?",
+      "added": "2026-03-28",
+      "used": true,
+      "usedAt": "2026-04-04T06:50:00+00:00"
+    },
+    {
+      "id": "32",
+      "topic": "multi-agent-collaboration",
+      "question": "When should you use multiple AI agents instead of one? How do they coordinate without conflicting?",
+      "added": "2026-04-05",
+      "used": true,
+      "usedAt": "2026-04-15T00:50:00+00:00"
+    },
+    {
+      "id": "33",
+      "topic": "ai-memory-across-sessions",
+      "question": "How should an AI agent handle memory that needs to persist across sessions? What should be kept vs discarded?",
+      "added": "2026-04-05",
+      "used": true,
+      "usedAt": "2026-04-09T21:48:00+00:00"
+    },
+    {
+      "id": "34",
+      "topic": "llm-steering",
+      "question": "What's the difference between system prompt, user preferences, and learned behavior in steering an LLM?",
+      "added": "2026-04-05",
+      "used": true
+    }
+  ]
+}

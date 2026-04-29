@@ -1,0 +1,41 @@
+{
+  "ok": true,
+  "query": "模型使用策略 GLM MiniMax",
+  "results": [
+    {
+      "path": "/root/.openclaw/workspace/memory/2026-03-10-1257.md",
+      "start_line": 76,
+      "end_line": 95,
+      "text": "s/fuel>\n它的描述更直接：\n提供一个 inference gateway\n用语义角色来配模型：worker / reasoning / heartbeat后台自动选择更便宜 provider / model**\n支持 failover、预算控制\n这个才更像你说的 **“按需自动给 OpenClaw 切换模型”**。\n也就是：你配置的是角色，不是具体厂商模型；后面具体落到哪个 provider/model，由 Fuel 那层帮你优化。\n我给你的结论\n如果你要的是：\n“教我怎么把 OpenClaw 配便宜点”**\n→ 用 **openclaw-cost-optimization**\n“我想要一个能自动路由/自动换模型的方案”**\n→ **Fuel 更像你要的东西**\n如果你愿意，我下一步可以直接帮你做两件事之一：\n1. **把这两个 skill 的差异整理成对比表**",
+      "score": 0.5906590819358826
+    },
+    {
+      "path": "/root/.openclaw/workspace/memory/2026-03-10-1257.md",
+      "start_line": 11,
+      "end_line": 32,
+      "text": "on the default model. Do not mention internal steps, files, tools, or reasoning.Current time: Tuesday, March 10th, 2026 — 8:31 PM (Asia/Shanghai) / 2026-03-10 12:31 UTC\nassistant: [[reply_to_current]] 晚上好，主人。我是小亮 🐈‍⬛，这会儿跑在 **openai-codex/gpt-5.4**，默认模型是 **zai/glm-5**。今天想让我直接帮你干什么？\nuser: Conversation info (untrusted metadata):\nSender (untrusted metadata):",
+      "score": 0.5900546908378601
+    },
+    {
+      "path": "/root/.openclaw/workspace/memory/2026-03-09-model-check.md",
+      "start_line": 34,
+      "end_line": 59,
+      "text": "ser: System: [2026-03-09 16:46:31 GMT+8] Model switched to openai-codex/gpt-5.4.Conversation info (untrusted metadata):\nSender (untrusted metadata):\n下午好，你现在使用的是什么大模型\nassistant: [[reply_to_current]] 现在用的是 **openai-codex/gpt-5.4**。\n如果你愿意，我也可以顺手告诉你：\n默认模型** 是什么\n这个模型更适合干什么\n要不要切成别的模型更划算/更强",
+      "score": 0.5846651196479797
+    },
+    {
+      "path": "/root/.openclaw/workspace/memory/2026-03-10-1257.md",
+      "start_line": 95,
+      "end_line": 95,
+      "text": "换模型的方案”**\n→ **Fuel 更像你要的东西**\n如果你愿意，我下一步可以直接帮你做两件事之一：\n1. **把这两个 skill 的差异整理成对比表**2. **检查你当前 OpenClaw 配置，看看怎么最省钱地接入自动模型切换**",
+      "score": 0.5838157534599304
+    },
+    {
+      "path": "/root/.openclaw/workspace/memory/model-policy.md",
+      "start_line": 1,
+      "end_line": 25,
+      "text": "模型选择策略 - 检索卡片\n此文件用于检索优化，保持简洁关键词风格\n模型别名\n| 别名 | 实际模型 |\n|------|----------|\n| GLM | zai/glm-5 |\n| gpt54 | openai-codex/gpt-5.4 |\n| minimax | bailian/MiniMax-M2.5 |\n| sonnet | anthropic/claude-sonnet-4-6 |\n选择策略\n优先级\ncoding > complex reasoning > simple task > default\n场景对照表\n| 任务类型 | 推荐模型 | 原因 |\n|----------|----------|------|\n| 主会话日常对话 | glm-5 | 默认，性价比高 |\n| 复杂分析/深度推理 | gpt-5.4 | 推理能力强 |",
+      "score": 0.5821104645729065
+    }
+  ]
+}

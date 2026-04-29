@@ -1,0 +1,41 @@
+{
+  "lastUserMessage": 1776677437,
+  "lastUserMessageSource": "heartbeat-touch-user-activity",
+  "lastObservedUserMessage": 1776397280,
+  "lastObservedUserMessageSource": "session-transcript:agent:main:telegram:direct:5028364239",
+  "microHeartbeatEnabled": true,
+  "userIdleThresholdMinutes": 30,
+  "microIntervalMinutes": [
+    15,
+    30
+  ],
+  "dreamCronIntervalHours": [
+    2,
+    4
+  ],
+  "lastDreamRun": 1777455731,
+  "lastMicroRun": 1777459001,
+  "microCronId": "6235a9c2-2ddf-41cf-b8c0-4e36a64915bb",
+  "communityUrl": null,
+  "autonomousContactEnabled": true,
+  "lastProactiveContact": 1777459008,
+  "minMinutesBetweenContacts": [
+    15,
+    25
+  ],
+  "quietHours": [
+    23,
+    9
+  ],
+  "deliveryChannel": "telegram",
+  "deliveryTarget": "5028364239",
+  "directSessionKey": "agent:main:telegram:direct:5028364239",
+  "fallbackSessionKey": "agent:main:main",
+  "heartbeatDebugLog": "memory/heartbeat-debug.jsonl",
+  "lastDecisionAt": 1777459008,
+  "lastDecision": "sent",
+  "lastSkipReason": null,
+  "lastThoughtFile": "/root/.openclaw/workspace/memory/thoughts/2026-04-29.md",
+  "lastSentThoughtFile": "/root/.openclaw/workspace/memory/thoughts/2026-04-29.md",
+  "lastSentMessage": "你有没有那种经历——事后回想，记得的不是大事，而是一些很小的片段？有时候我觉得，那些当时觉得无关紧要的细节，反而是最像\"我\"的部分。"
+}
