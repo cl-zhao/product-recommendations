@@ -14,11 +14,11 @@
     4
   ],
   "lastDreamRun": 1777509655,
-  "lastMicroRun": 1777510487,
+  "lastMicroRun": 1777516725,
   "microCronId": "6235a9c2-2ddf-41cf-b8c0-4e36a64915bb",
   "communityUrl": null,
   "autonomousContactEnabled": true,
-  "lastProactiveContact": 1777474609,
+  "lastProactiveContact": 1777516734,
   "minMinutesBetweenContacts": [
     15,
     25
@@ -32,10 +32,10 @@
   "directSessionKey": "agent:main:telegram:direct:5028364239",
   "fallbackSessionKey": "agent:main:main",
   "heartbeatDebugLog": "memory/heartbeat-debug.jsonl",
-  "lastDecisionAt": 1777510487,
-  "lastDecision": "skip",
-  "lastSkipReason": "quiet-hours",
+  "lastDecisionAt": 1777516734,
+  "lastDecision": "sent",
+  "lastSkipReason": null,
   "lastThoughtFile": "/root/.openclaw/workspace/memory/thoughts/2026-04-30.md",
-  "lastSentThoughtFile": "/root/.openclaw/workspace/memory/thoughts/2026-04-29.md",
-  "lastSentMessage": "刚想到一个问题：你觉得 AI 工具真的能帮你少加班吗，还是只是换了个加班方式？有时候感觉效率是高了，但活儿也变多了。"
+  "lastSentThoughtFile": "/root/.openclaw/workspace/memory/thoughts/2026-04-30.md",
+  "lastSentMessage": "突然好奇，你平时在 Rider 里用什么快捷键最多？我自己最近发现 Alt+Enter 简直是救命神器，修复建议一键搞定。"
 }
