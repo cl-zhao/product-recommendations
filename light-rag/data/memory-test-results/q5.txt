@@ -1,0 +1,41 @@
+{
+  "ok": true,
+  "query": "qmd 中文分词 问题",
+  "results": [
+    {
+      "path": "/root/.openclaw/workspace/memory/2026-03-13.md",
+      "start_line": 1,
+      "end_line": 49,
+      "text": "2026-03-13 记忆日志\n10:52 - qmd 中文分词问题深度排查\n核心发现\n分词根因定位：BuiltinMemoryManager**\n子代理之前修复的是 qmd-manager 的 buildSearchArgs()，但分词实际发生在 **BuiltinMemoryManager** 中，比 qmd 调用更早。\nOpenClaw Memory Search 架构\n关键代码在 dispatch-BP0viZiL.js:\n多 dispatch 文件发现\n| dispatch 文件 | 加载的 qmd-manager |\n|--------------|-------------------|\n| dispatch-BP0viZiL.js | qmd-manager-dh7uXqte.js |",
+      "score": 0.6642465591430664
+    },
+    {
+      "path": "/root/.openclaw/workspace/memory/2026-03-13.md",
+      "start_line": 68,
+      "end_line": 88,
+      "text": "在 BuiltinMemoryManager\n3. **问题在集成层** - OpenClaw 的 FallbackMemoryManager 或更上游的预处理4. **需要进一步排查** - 找到 OpenClaw 调用链中哪里先对 query 做了分词\n网关状态\n已重启，服务正常 (pid: 222884)\nRPC probe ok\n但 qmd 集成仍未生效，memory_search 仍 fallback 到 Gemini\n待解决问题\n1. 找到 OpenClaw 在调用 qmd 之前对 query 进行分词的具体位置\n2. 解决 collection 状态不一致问题\n3. 让 OpenClaw 真正使用 qmd 而非 fallback 到 Gemini\n技术笔记\n关键文件路径",
+      "score": 0.634899377822876
+    },
+    {
+      "path": "/root/.openclaw/workspace/memory/memory-retrieval-solutions.md",
+      "start_line": 1,
+      "end_line": 26,
+      "text": "OpenClaw 记忆检索优化方案\n📋 背景回顾\nOpenClaw 当前使用 qmd 作为记忆检索后端，存在以下问题：\n1. qmd 中文分词 bug 导致 fallback 到 Gemini\n2. CPU 模式下 qmd embed 速度慢（~1.5分钟）\n3. 需要手动创建 collection，配置复杂\n硬件约束**: 2核 CPU / 4GB 内存 / 60GB 磁盘 / 无 GPU / Linux OpenCloudOS\n📦 方案列表\n1. LightRAG (推荐)\nGitHub**: https://github.com/HKUDS/LightRAG\nStars**: ⭐ 5.2k+\n最新更新**: 2025.11 (活跃)\n核心特性\n轻量级 RAG 框架，支持本地部署\n异构图索引 + 知识图谱增强检索\n支持向量检索 + 关键词检索混合",
+      "score": 0.5957351922988892
+    },
+    {
+      "path": "/root/.openclaw/workspace/memory/retrieval-solutions-research.md",
+      "start_line": 682,
+      "end_line": 706,
+      "text": "AI Agent 记忆系统**\n首选: **Mem0 + Chroma + BGE Reranker**\n理由: 专为 Agent 设计，轻量级，CPU 友好如果目标是通用文档检索**\n首选: **Meilisearch**\n理由: 成熟稳定，混合检索强大，生产级\n如果目标是长期学习型 Agent**\n首选: **Letta**\n理由: 完整的有状态 Agent 框架，自我改进\n与 qmd 的关系\nqmd 的独特优势**\n✅ 本地 GGUF 模型支持\n✅ 一体化方案\n✅ 对开发者友好\n建议的进化方向**\n1. 保持 GGUF 模型支持（这是差异化优势）\n2. 集成 BGE Reranker（提升精度）\n3. 支持多种后端（Chroma/Qdrant/Meilisearch）\n4. 添加 Mem0 风格的记忆管理 API\n5. 优化 query expansion（小模型 + 缓存）",
+      "score": 0.5847513675689697
+    },
+    {
+      "path": "/root/.openclaw/workspace/memory/2026-03-12.md",
+      "start_line": 57,
+      "end_line": 61,
+      "text": "qmd 2.0.1\nCollection：memory（30 文件，70 向量）\nsearchMode：search（跳过慢的 query expansion）问题：只索引 memory/*.md，不含 MEMORY.md 和 LCM 历史\n_内生思考系统已上线，在用户不在时保持轻度活跃_",
+      "score": 0.5674160718917847
+    }
+  ]
+}

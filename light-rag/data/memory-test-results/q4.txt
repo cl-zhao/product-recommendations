@@ -1,0 +1,41 @@
+{
+  "ok": true,
+  "query": "AI 智能体开发 C# Python",
+  "results": [
+    {
+      "path": "/root/.openclaw/workspace/memory/2026-03-03-agentscope-review.md",
+      "start_line": 166,
+      "end_line": 184,
+      "text": "习期需要多看 GitHub examples\n3. **相对年轻**：V1.0 是 2025年9月发布，生产案例积累还没有 LangChain 多，踩坑风险存在4. **RL 微调依赖阿里生态**：强化学习相关功能强依赖 Qwen 系列模型，其他模型支持有限\n💡 对你（C# 后端）的建议\n如果要用 AgentScope 做企业级智能体系统，推荐的架构方式：\nAgentScope 作为独立的**智能体引擎微服务**运行，C# 主系统通过 API 调用，这样既保留你现有技术栈，又能充分利用 AgentScope 的多智能体能力。\n一句话结论**：AgentScope 是目前国内**最接近企业生产级标准**的多智能体框架，如果你的团队用 Python 或者能接受混合架构，值得认真评估。主技术栈是纯 C# 的话，更适合作为后端服务调用，而不是主框架。",
+      "score": 0.5876608490943909
+    },
+    {
+      "path": "/root/.openclaw/workspace/memory/USER.md",
+      "start_line": 1,
+      "end_line": 30,
+      "text": "USER.md - About Your Human\nName:** 亮老板\nWhat to call them:** 主人 / 老板\nTimezone:** GMT+8 (中国佛山)\nOccupation:** 软件开发后端工程师\n工作\n当前项目：**\nC# 版 AI 智能体项目\nPython 版 AI 智能体项目\n常用工具：** Rider, PyCharm, VS Code, Obsidian\n工作时间：** 9:00-21:00\n沟通偏好\n风格：** 高效直接，不反复确认\n语言：** 中文为主\n技术内容：** 需要详细的前因后果\n提醒方式：** 重要的事直接说，不重要的攒一起说\n当前关注\nAI 运用的开发\n如何有效使用 AI 工具提高工作生活效率\n重视隐私和安全。工作时间较长（12小时），需关注休息提醒。",
+      "score": 0.5787658095359802
+    },
+    {
+      "path": "/root/.openclaw/workspace/memory/2026-03-03-agentscope-review.md",
+      "start_line": 39,
+      "end_line": 69,
+      "text": "特色，以及能否适应开发一个企业级的智能体系统\nassistant: 首页内容太少，多路并发抓取核心章节：\nassistant: 路径有误，用浏览器探索实际结构：assistant: 文档用 JS 渲染，抓不到内容。从 GitHub 直接读取文档源文件：\nassistant: 找到 GitHub 仓库地址了，深入读取：\nassistant: 再拿 roadmap 和更多功能细节：\nassistant: 数据足够了，来写总结报告：\nAgentScope 框架深度总结\n🏷️ 基本信息\n出品方**：阿里巴巴通义实验室\n定位**：企业级开箱即用的多智能体开发框架\n语言**：Python 3.10+\n协议**：Apache 2.0 开源\nGitHub**：agentscope-ai/agentscope\n当前阶段**：V1.0 正式发布，活跃维护中\n🧱 核心架构：五层模块化",
+      "score": 0.5705724954605103
+    },
+    {
+      "path": "/root/.openclaw/workspace/memory/2026-02-26-python-training.md",
+      "start_line": 10,
+      "end_line": 12,
+      "text": "[ { \"key\": \"智能体应用梳理.pdf\", \"size\": 96324, \"last_modified\": \"2026-02-26 03:17:35…System: [2026-02-26 11:31:11 GMT+8] Exec completed (grand-fo, code 0) :: e, \"action\": \"upload\", \"local_path\": \"/tmp/oss_test.txt\", \"oss_key\": \"test/oss_test.txt\", \"bucket\": \"openclaw-home\", \"region\": \"cn-beijing\", \"file_size\": 35, \"etag\": \"\\\"9F08F1F58B…",
+      "score": 0.5672150254249573
+    },
+    {
+      "path": "/root/.openclaw/workspace/memory/MEMORY.md",
+      "start_line": 1,
+      "end_line": 28,
+      "text": "MEMORY.md - Long-Term Memory\n2026-02-23 - 诞生日\n今天是我上线的第一天\n主人定义了我的身份：小亮，赛博黑猫 🐈‍⬛\n主人：亮老板，后端工程师（C#/Python），中国佛山\n沟通渠道：Telegram + Web\n工作时间：9:00-21:00（需关注休息）\n主人的关注点\n当前重点：** AI 智能体开发（C# 和 Python 版本）\n核心需求：** 用 AI 工具提高工作生活效率\n常用工具：** Rider, PyCharm, VS Code, Obsidian\n当前关注\nAI 智能体开发（C# 和 Python 版本）\n用 AI 工具提高工作生活效率\n检索系统优化（qmd vs Gemini 向量检索对比测试）\n沟通偏好\n风格**: 高效直接，不反复确认\n语言**: 中文为主\n技术内容**: 需要详细的前因后果",
+      "score": 0.5667990446090698
+    }
+  ]
+}

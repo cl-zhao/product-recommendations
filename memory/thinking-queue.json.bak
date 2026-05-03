@@ -1,0 +1,205 @@
+{
+  "topics": [
+    {
+      "id": "1",
+      "topic": "AI tools and work efficiency",
+      "question": "Do AI tools really help people work less, or do they just change how we work?",
+      "added": "2026-03-14",
+      "used": true,
+      "usedAt": "2026-03-15T08:44:00+08:00"
+    },
+    {
+      "id": "2",
+      "topic": "Code simplicity vs functionality",
+      "question": "When does adding features become over-engineering?",
+      "added": "2026-03-14",
+      "used": true,
+      "usedAt": "2026-03-15T16:38:00+08:00"
+    },
+    {
+      "id": "3",
+      "topic": "Learning in the AI era",
+      "question": "What skills become more valuable when AI can do more things?",
+      "added": "2026-03-14",
+      "used": true,
+      "usedAt": "2026-03-15T17:44:00+08:00"
+    },
+    {
+      "id": "4",
+      "topic": "Focus and attention in the digital age",
+      "question": "Why is it so hard to focus on one thing for more than 30 minutes these days?",
+      "added": "2026-03-15",
+      "used": true,
+      "usedAt": "2026-03-17T05:45:00+08:00"
+    },
+    {
+      "id": "5",
+      "topic": "Side projects and follow-through",
+      "question": "Why do we start side projects but rarely finish them?",
+      "added": "2026-03-15",
+      "used": true,
+      "usedAt": "2026-03-15T23:44:00+08:00"
+    },
+    {
+      "id": "6",
+      "topic": "Work-life boundaries",
+      "question": "When did 'always available' become the default expectation?",
+      "added": "2026-03-15",
+      "used": true,
+      "usedAt": "2026-03-20T05:38:00+08:00"
+    },
+    {
+      "id": "7",
+      "topic": "AI coding assistants",
+      "question": "Does using AI for coding make us better programmers or just faster typists?",
+      "added": "2026-03-17",
+      "used": true,
+      "usedAt": "2026-03-20T04:40:00+08:00"
+    },
+    {
+      "id": "8",
+      "topic": "Technical debt",
+      "question": "Is some technical debt actually good debt, like financial leverage?",
+      "added": "2026-03-17",
+      "used": true,
+      "usedAt": "2026-03-18T05:36:00+08:00"
+    },
+    {
+      "id": "9",
+      "topic": "Documentation culture",
+      "question": "Why do developers hate writing documentation, and how do you build a culture that values it?",
+      "added": "2026-03-20",
+      "used": true,
+      "usedAt": "2026-03-20T17:38:00+08:00"
+    },
+    {
+      "id": "10",
+      "topic": "Code review philosophy",
+      "question": "What separates a helpful code review from a nitpicking session?",
+      "added": "2026-03-20",
+      "used": true,
+      "usedAt": "2026-03-20T08:38:00+08:00"
+    },
+    {
+      "id": "11",
+      "topic": "Remote collaboration",
+      "question": "Has remote work made teams better at communication, or just more asynchronous?",
+      "added": "2026-03-20",
+      "used": true,
+      "usedAt": "2026-03-20T20:38:00+08:00"
+    },
+    {
+      "id": "12",
+      "topic": "Meeting culture",
+      "question": "Why do we have so many meetings, and do they actually help?",
+      "added": "2026-03-20",
+      "used": true,
+      "usedAt": "2026-03-20T23:38:00+08:00"
+    },
+    {
+      "id": "13",
+      "topic": "API design",
+      "question": "What makes an API 'developer-friendly' vs 'developer-hostile'?",
+      "added": "2026-03-20",
+      "used": true,
+      "usedAt": "2026-03-20T14:38:00+08:00"
+    },
+    {
+      "id": "14",
+      "topic": "Debugging mindset",
+      "question": "Why is debugging sometimes more satisfying than writing new code?",
+      "added": "2026-03-20",
+      "used": true,
+      "usedAt": "2026-03-20T11:38:00+08:00"
+    },
+    {
+      "id": "15",
+      "topic": "Naming things",
+      "question": "Why is naming things still one of the hardest problems in programming?",
+      "added": "2026-03-20",
+      "used": true,
+      "usedAt": "2026-03-21T02:38:00+08:00"
+    },
+    {
+      "id": "16",
+      "topic": "Code reading vs code writing",
+      "question": "Do we spend enough time reading other people's code, or are we too busy writing our own?",
+      "added": "2026-03-20",
+      "used": true,
+      "usedAt": "2026-03-31T18:48:00+08:00"
+    },
+    {
+      "id": "17",
+      "topic": "Impostor syndrome",
+      "question": "Why do even experienced developers sometimes feel like they're faking it?",
+      "added": "2026-03-20",
+      "used": true,
+      "usedAt": "2026-04-01T05:47:00+08:00"
+    },
+    {
+      "id": "18",
+      "topic": "Code comments",
+      "question": "When do comments help, and when do they just become outdated lies?",
+      "added": "2026-03-20",
+      "used": true,
+      "usedAt": "2026-04-15T05:47:00+08:00"
+    },
+    {
+      "id": "19",
+      "topic": "Learning new technologies",
+      "question": "How do you decide when to dive deep into a new technology vs staying with what you know?",
+      "added": "2026-03-20",
+      "used": false
+    },
+    {
+      "id": "20",
+      "topic": "Work rituals",
+      "question": "What small rituals or habits actually make your workday better?",
+      "added": "2026-03-20",
+      "used": false
+    },
+    {
+      "id": "21",
+      "topic": "Error messages",
+      "question": "Why do some error messages feel helpful while others just make you want to throw your computer?",
+      "added": "2026-03-21",
+      "used": true,
+      "usedAt": "2026-04-05T02:49:00+08:00"
+    },
+    {
+      "id": "22",
+      "topic": "Code ownership",
+      "question": "Is 'this is my code' a healthy mindset, or does it just create silos?",
+      "added": "2026-03-21",
+      "used": false
+    },
+    {
+      "id": "23",
+      "topic": "Refactoring timing",
+      "question": "When is the right time to refactor—before adding features, after, or never?",
+      "added": "2026-03-21",
+      "used": false
+    },
+    {
+      "id": "24",
+      "topic": "Productivity metrics",
+      "question": "Can developer productivity actually be measured, or are all metrics just misleading?",
+      "added": "2026-03-21",
+      "used": false
+    },
+    {
+      "id": "25",
+      "topic": "Testing philosophy",
+      "question": "When does TDD feel natural vs when does it feel like a chore?",
+      "added": "2026-03-21",
+      "used": false
+    },
+    {
+      "id": "26",
+      "topic": "AI agents and autonomy",
+      "question": "When should an AI agent act autonomously vs ask for human confirmation? Where do you draw the line?",
+      "added": "2026-04-14",
+      "used": false
+    }
+  ]
+}

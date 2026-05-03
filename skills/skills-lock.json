@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "follow-builders": {
+      "source": "zarazhangrui/follow-builders",
+      "sourceType": "github",
+      "computedHash": "9ec9128b672f84ecdeac4757d010a5bb735825a81f15d9a3b1370f926d438be6"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+model_path: models/bge-small-zh-v1.5/onnx/model_int8.onnx
+tokenizer_path: models/bge-small-zh-v1.5/tokenizer.json
+index_path: data/index/vectors.hnsw
+meta_db_path: data/index/meta.db
+docs_dir: data/docs
+vector_dim: 512
+chunk_size: 400
+chunk_overlap: 80
+default_top_k: 5
+model_max_length: 512
+intra_threads: 2
+inter_threads: 1
+batch_size: 16

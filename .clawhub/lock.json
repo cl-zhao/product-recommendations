@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "agent-browser": {
+      "version": "0.2.0",
+      "installedAt": 1770803375381
+    },
+    "gog": {
+      "version": "1.0.0",
+      "installedAt": 1771919477143
+    },
+    "self-improving": {
+      "version": "1.2.10",
+      "installedAt": 1773197342001
+    }
+  }
+}

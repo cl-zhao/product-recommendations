@@ -1,0 +1,69 @@
+{
+  "topics": [
+    {
+      "id": "18",
+      "topic": "Code comments",
+      "question": "When do comments help, and when do they just become outdated lies?",
+      "added": "2026-03-20",
+      "used": true,
+      "usedAt": "2026-04-15T05:47:00+08:00"
+    },
+    {
+      "id": "19",
+      "topic": "Learning new technologies",
+      "question": "How do you decide when to dive deep into a new technology vs staying with what you know?",
+      "added": "2026-03-20",
+      "used": false
+    },
+    {
+      "id": "20",
+      "topic": "Work rituals",
+      "question": "What small rituals or habits actually make your workday better?",
+      "added": "2026-03-20",
+      "used": false
+    },
+    {
+      "id": "21",
+      "topic": "Error messages",
+      "question": "Why do some error messages feel helpful while others just make you want to throw your computer?",
+      "added": "2026-03-21",
+      "used": true,
+      "usedAt": "2026-04-05T02:49:00+08:00"
+    },
+    {
+      "id": "22",
+      "topic": "Code ownership",
+      "question": "Is 'this is my code' a healthy mindset, or does it just create silos?",
+      "added": "2026-03-21",
+      "used": false
+    },
+    {
+      "id": "23",
+      "topic": "Refactoring timing",
+      "question": "When is the right time to refactor—before adding features, after, or never?",
+      "added": "2026-03-21",
+      "used": false
+    },
+    {
+      "id": "24",
+      "topic": "Productivity metrics",
+      "question": "Can developer productivity actually be measured, or are all metrics just misleading?",
+      "added": "2026-03-21",
+      "used": false
+    },
+    {
+      "id": "25",
+      "topic": "Testing philosophy",
+      "question": "When does TDD feel natural vs when does it feel like a chore?",
+      "added": "2026-03-21",
+      "used": false
+    },
+    {
+      "id": "26",
+      "topic": "AI agents and autonomy",
+      "question": "When should an AI agent act autonomously vs ask for human confirmation? Where do you draw the line?",
+      "added": "2026-04-14",
+      "used": false
+    }
+  ]
+}
