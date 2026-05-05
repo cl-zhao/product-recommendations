@@ -4,382 +4,412 @@
 
 ---
 
-## 📊 今日概览 / Today's Overview
+## 📊 Today's Overview | 今日概览
 
-- **推文 / Tweets**: 24 条更新
-- **播客 / Podcasts**: 0 条更新
+- **Tweets**: 25 updates | 25 条动态
+- **Podcasts**: 0 updates | 0 个播客更新
 
 ---
 
-## 🐦 AI Builder 最新动态 / Latest from AI Builders
+## 🐦 Latest from AI Builders | AI 建造者最新动态
 
 ### 1. @swyx
 
-**Swyx** · 05-04 01:41
+**Swyx** · 05-04 23:14
 
-til the show is free on youtube!
+OAI 850B valuation, ~30B ARR now
+Ant ~900B valuation, ~44B* ARR now  
 
-（才知道节目在 YouTube 上是免费的！）
+OAI 估值 850 亿美元，目前 ARR 约 300 亿。蚂蚁估值约 900 亿美元，ARR 约 440 亿*。
 
-https://t.co/THkBpFyMsX
+*revenue recognized differently, per Denise Dresser its probably closer to 8-10B lower if using OAI methodology
+*收入确认方式不同，Denise Dresser 指出按 OAI 方法计算可能还要低 80-100 亿美元
 
-🔗 [查看原文 / View Original](https://x.com/swyx/status/2051115027210346936)
-❤️ 0 · 🔁 0
+chart reconstructed from wsj by me https://t.co/6NJhYWD7OR
+
+🔗 [View Original](https://x.com/swyx/status/2051440392722391180)
+❤️ 3 · 🔁 1
 
 ---
 
 ### 2. @swyx
 
-**Swyx** · 05-03 19:46
+**Swyx** · 05-04 15:53
 
-ok @deepfates @mada299 it took me 3 years to do my second short story but i did one
+see the talk version, out now thanks to @steveruizok 
+https://t.co/yWBLXGh5Od
 
-（好的 @deepfates @mada299，我花了3年才写完第二篇短篇故事，但我做到了。）
+演讲视频版已上线，感谢 @steveruizok 的帮助。
 
-🔗 [查看原文 / View Original](https://x.com/swyx/status/2051025640657449249)
-❤️ 2 · 🔁 0
+🔗 [View Original](https://x.com/swyx/status/2051329419860758932)
+❤️ 1 · 🔁 0
 
 ---
 
 ### 3. @swyx
 
-**Swyx** · 05-03 19:44
+**Swyx** · 05-04 15:53
 
-（无文字内容，仅链接）
+this one is doing v well btw if you want the popular vote filter on the firehose of all the things
 
-https://t.co/d1TQY3fKFH
+这条很受欢迎，如果你在信息洪流中想要热门投票过滤器的话。
 
-🔗 [查看原文 / View Original](https://x.com/swyx/status/2051025206228218103)
-❤️ 18 · 🔁 0
+@patrickdebois was one of the track keynotes i gave a "blank check" to based on his sincere support since our very earliest days + when in europe we must feature the DevOps guy. he didnt disappoint!
+
+@patrickdebois 是我早年一直真诚支持的 track keynote 之一，当时在欧洲我们必须介绍这位 DevOps 之神，他没有让大家失望！
+
+🔗 [View Original](https://x.com/swyx/status/2051329252344369626)
+❤️ 40 · 🔁 1
 
 ---
 
-### 4. @petergyang
+### 4. @kevinweil
 
-**Peter Yang** · 05-04 03:06
+**Kevin Weil** · 05-05 00:50
 
-I tweeted this as a joke but it's literally what I'm doing right now lol sigh
+👇👇👇 https://t.co/0VtIN5LVNa
 
-（我发这条的时候是开玩笑的，但这就是我此刻正在做的事，笑死。）
-
-https://t.co/dEpf9jcFRa
-
-🔗 [查看原文 / View Original](https://x.com/petergyang/status/2051136319104098445)
-❤️ 50 · 🔁 1
+🔗 [View Original](https://x.com/kevinweil/status/2051464436066721798)
+❤️ 22 · 🔁 0
 
 ---
 
 ### 5. @petergyang
 
-**Peter Yang** · 05-04 02:38
+**Peter Yang** · 05-05 03:47
 
-I caved and downloaded Hermes to try.
+Coding is the first frontier.
+Knowledge work is the second one.
+Personal agents are the third.
 
-For those of you who have tried both Hermes and OpenClaw what difference do you notice?
+编程是第一战场。
+知识工作是第二战场。
+个人智能体是第三战场。
 
-No shilling please, just want some honest opinions
-
-（我投降了，下了 Hermes 来试试。有没有人两个都用过？Hermes 和 OpenClaw 有什么区别？别软广，来点真实评价。）
-
-🔗 [查看原文 / View Original](https://x.com/petergyang/status/2051129249348894754)
-❤️ 496 · 🔁 11
+🔗 [View Original](https://x.com/petergyang/status/2051508988936937764)
+❤️ 121 · 🔁 11
 
 ---
 
 ### 6. @petergyang
 
-**Peter Yang** · 05-04 02:38
+**Peter Yang** · 05-05 03:33
 
-How to keep your agents running even when your macbook lid is closed:
+Met the demo god himself today @romainhuet https://t.co/9znPEAkgXP
 
-1. Go to Mac App Store and download Amphetamine
+今天见到了 demo 大神 @romainhuet。
 
-2. Go to Settings → Session Defaults → uncheck everything below
-
-You're welcome :)
-
-（如何在 MacBook 合盖时保持 agents 继续运行：
-
-1. 去 Mac App Store 下载 Amphetamine
-2. 设置 → Session Defaults → 取消勾选下方所有选项
-
-不谢 :)
-
-）
-
-🔗 [查看原文 / View Original](https://x.com/petergyang/status/2050963126234034387)
-❤️ 589 · 🔁 37
+🔗 [View Original](https://x.com/petergyang/status/2051505589055070594)
+❤️ 63 · 🔁 1
 
 ---
 
-### 7. @amasad
+### 7. @petergyang
 
-**Amjad Masad** · 05-04 05:10
+**Peter Yang** · 05-05 00:29
 
-10 active, 198 draft, 700+ done.
+I want to get my 8 year old to start building stuff with agents that she actually can share with her class and teachers. Any ideas? 
 
-I don't think there's more agentic parallelism happening anywhere else on the internet than what happens on @Replit.
+Maybe she can make her first dollar online too.
 
-（10 个活跃任务，198 个草稿，700+ 已完成。我觉得互联网上 agent 并行度最高的地方就在 @Replit。）
+我想让 8 岁的女儿开始用智能体做东西，能真正分享给同学和老师。有任何建议吗？
 
-🔗 [查看原文 / View Original](https://x.com/amasad/status/2051167532523074015)
-❤️ 134 · 🔁 6
+也许她还能赚到人生第一块钱。
+
+🔗 [View Original](https://x.com/petergyang/status/2051459299860533483)
+❤️ 75 · 🔁 1
 
 ---
 
 ### 8. @amasad
 
-**Amjad Masad** · 05-04 05:06
+**Amjad Masad** · 05-05 03:57
 
-Man, I miss staying up for days hacking
+Replit helped an entrepreneur find investors and land meetings! https://t.co/XBY3YWATyx
 
-（哎，我怀念那种连续熬几天夜写代码的感觉了。）
+Replit 帮助一位创业者找到了投资人，还约上了会议！
 
-🔗 [查看原文 / View Original](https://x.com/amasad/status/2051166676256014844)
-❤️ 73 · 🔁 1
+🔗 [View Original](https://x.com/amasad/status/2051511694040744139)
+❤️ 25 · 🔁 1
 
 ---
 
 ### 9. @amasad
 
-**Amjad Masad** · 05-03 18:35
+**jad Masad** · 05-04 21:00
 
-Amazing what a single day of marathon vibe coding can achieve.
+Great use of AI for education: multi-modal learning platform for deaf students. https://t.co/RAmiVqbtgD
 
-（一天马拉松式 vibe coding 能完成的事令人惊叹。）
+AI 在教育领域的出色应用：面向聋哑学生的多模态学习平台。
 
-🔗 [查看原文 / View Original](https://x.com/amasad/status/2051007848440877242)
-❤️ 164 · 🔁 12
+🔗 [View Original](https://x.com/amasad/status/2051406536443035922)
+❤️ 124 · 🔁 11
 
 ---
 
-### 10. @levie
+### 10. @rauchg
 
-**Aaron Levie** · 05-03 21:53
+**Guillermo Rauch** · 05-04 19:41
 
-Whether it's existing consulting firms, new ones that emerge, FDEs from agent vendors, or new internal agent engineering roles, the amount of work that is going to be created to implement agents in enterprises will exceed anything we imagine today.
+𝚗𝚙𝚡 𝚍𝚎𝚎𝚙𝚜𝚎𝚌
 
-（无论是一众现有咨询公司、崭露头角的新公司、来自 agent 厂商的 FDE，还是企业内部新设的 agent 工程角色，在企业中落地 agent 所需要的工作量将远超我们今日的想象。）
+We're introducing an open-source agent orchestrator for deep security reviews.
 
-The complexity of implementing agents in any existing organizations is very real. When I talk to large enterprises, as you move from a chat paradigm to agents that participate in meaningful workflows, there are a number of things they need to do.
+我们推出了一款开源智能体编排器，用于深度安全审查。
 
-（在任何现有组织中落地 agent 的复杂度是实实在在的。我与大企业交流时，当你从聊天范式过渡到让 agent 参与有意义的workflow时，有很多事情需要处理。）
+We built it for internal use, and after running it against some major OSS projects, we gained conviction to share it with the world.
 
-First, you have to get agents to be able to talk to your data securely across your systems. In many cases, enterprises have decades of legacy infrastructure that contain the valuable context for AI agents. That's going to take a ton of work to go modernize and move to systems that work well with agents.
+最初是内部使用，在用它扫描了一些大型开源项目后，我们有了足够的信心将其公开。
 
-（首先，你得让 agent 能安全地与你各个系统中的数据对话。很多企业有几十年的遗留基础设施，其中存储着对 AI agent 很有价值的上下文。要将这些迁移到与现代 agent 配合良好的系统，需要大量的工作。）
+Coding agents can now find critical vulnerabilities in minutes that would take teams of people months (if they can spot them at all). Since 𝚍𝚎𝚎𝚙𝚜𝚎𝚌 is optimized to work with Vercel Sandbox, you can effectively harness the power of thousands of agents scrutinizing your codebase in parallel.
 
-Then, you need to ensure that you've implemented agents with the right access controls and entitlements, the right scopes to be safely used, and have ways of monitoring, logging, and securing the work that they do.
+编程智能体现在可以在几分钟内发现需要多人团队花数月才能找到的关键漏洞（如果他们能找到的话）。由于 𝚍𝚎𝚎𝚙𝚜𝚎𝚌 针对 Vercel Sandbox 进行了优化，你可以有效利用数千个智能体并行审查代码库的能力。
 
-（然后，你需要确保以正确的访问控制和权限、适当的作用域来部署 agent，并且要有方式去监控、日志记录和保护它们的工作。）
+I encourage you to try this on your repositories. BTW: If you run an OSS project and want us to sponsor a run, my DMs are open.
 
-Next, you need to actually document the processes in the organization in a way that agents can utilize for doing the work. You also need to figure out what the new workflow looks like when agents and people are working together on a process, and who steps in where. Just replicating the old workflow will mute the gains. Oh and you likely need to create evals for your top new end-state processes.
+鼓励你在自己的仓库上试试。另外：如果你维护一个开源项目想让我们赞助一次扫描，欢迎私信我。
 
-（接下来，你需要真正把组织内的流程以 agent 可利用的方式文档化。还要弄清楚当 agent 与人共同处理一个流程时，新的 workflow 是什么样的，各自在哪里介入。简单复制旧 workflow 会削弱收益。哦，你可能还需要为你最重要的新最终流程创建评估体系。）
-
-Finally, you have to keep up with a rapidly changing set of best practices and architectural shifts happening in the agent space. While it's fun for people to change their personal productivity tools on a dime, it's 100X harder to do this in a business process. The speed of change is a blessing and a curse right now for anyone trying to keep a stable system design.
-
-（最后，你需要跟上 agent 领域快速变化的最佳实践和架构转变。当个人可以随时更换生产力工具时很有趣，但在业务流程中这样做的难度是其100倍。对于任何试图保持稳定系统设计的人来说，变化的速度既是祝福也是诅咒。）
-
-All of this means that individuals and companies that develop expertise on the above set of components (and more) are going to be needed to help organizations actually implement agents at scale. This is also the rationale for vertical AI agents right now that can go in deep on a business domain and help bring automation to it.
-
-（所有这些意味着，那些在上述（以及更多）组件上发展出专业度的个人和公司将有必要帮助各种组织真正大规模落地 agent。这也是当前垂直 AI agent 的基本逻辑——深入一个业务领域，帮助将自动化带入其中。）
-
-This is a huge opportunity right now whether you're doing this internally or as an external business provider.
-
-（无论你在企业内部做还是在外部做服务商，这都是眼下的巨大机会。）
-
-🔗 [查看原文 / View Original](https://x.com/levie/status/2051057677984469277)
-❤️ 1338 · 🔁 162
+🔗 [View Original](https://x.com/rauchg/status/2051386798899888539)
+❤️ 1229 · 🔁 86
 
 ---
 
 ### 11. @levie
 
-**Aaron Levie** · 05-03 18:41
+**Aaron Levie** · 05-04 16:54
 
-In general, we should treat AI like a utility, not like a being. The more we confuse what AI is the more we will make ourselves go crazy with analogies that will never fully hold true.
+Both Anthropic and OpenAI have new initiatives to help enterprises deploy AI agents within their organizations. This is a trend that's early but going to get very big fast.
 
-（总体而言，我们应该把 AI 当作一种公用设施来看待，而不是当做一个生命体。我们越把 AI 是什么搞混，就越会用永远无法完全成立的类比把自己搞疯。）
+Anthropic 和 OpenAI 都有新举措帮助企业在内部部署 AI 智能体。这是一个尚处早期但会极速增长的趋势。
 
-🔗 [查看原文 / View Original](https://x.com/levie/status/2051009208393589096)
-❤️ 245 · 🔁 21
+As agents enter knowledge work beyond coding, there is very real work to upgrade IT systems, get agents the context they need, modernize the workflows to work with agents, figure out the human-agent relationship in the workflow, drive adoption and do change management, and much more. 
+
+随着智能体进入编程以外的知识工作领域，升级 IT 系统、为智能体提供所需上下文、现代化工作流程以适配智能体、理清工作流中人机关系、推动采用和变更管理等等，都是实实在在的工作。
+
+While AI models have an incredible amount of capability packed into them, there's no shortcut to getting that intelligence applied to a business process in a stable way. This is creating tons of opportunities across the market for new jobs and firms, and the labs are equally recognizing the criticality here.
+
+虽然 AI 模型能力惊人，但将这些智能稳定地落地到业务流程中没有捷径。这正在为市场创造大量新岗位和新公司的机会，各大实验室也同样认识到这一点的重要性。
+
+🔗 [View Original](https://x.com/levie/status/2051344780328858040)
+❤️ 836 · 🔁 110
 
 ---
 
 ### 12. @garrytan
 
-**Garry Tan** · 05-04 01:22
+**Garry Tan** · 05-05 05:37
 
-This is why GBrain is open source. Why I run my own stack. The explosion in intelligence means building your own context is more important than ever.
+Also I'm a psycho about testing https://t.co/nL37rPCOjI
 
-（这就是 GBrain 要开源的原因，这就是为什么我要跑自己的技术栈。智能的爆发意味着构建你自己的上下文比以往任何时候都更重要。）
+另外我是个测试狂人。
 
-If you own and run your own prompts and your own data, then you earn the ability to think for yourself.
-
-（如果你拥有并运行你自己的 prompts 和你自己的数据，你就赢得了独立思考的能力。）
-
-Real freedom.
-
-（真正的自由。）
-
-🔗 [查看原文 / View Original](https://x.com/garrytan/status/2051110206466302136)
-❤️ 58 · 🔁 2
+🔗 [View Original](https://x.com/garrytan/status/2051536806932566406)
+❤️ 19 · 🔁 1
 
 ---
 
 ### 13. @garrytan
 
-**Garry Tan** · 05-04 00:40
+**Garry Tan** · 05-05 04:51
 
-The goal of Personal AI: civilization where individual humans, augmented by AI, can do consequential work without being captured by extractive institutions.
+What makes gbrain genuinely different? 
 
-（Personal AI 的目标：一种文明形态——在 AI 加持下，个体人类能从事重大工作，而不被汲取性机构所捕获。）
+是什么让 gbrain 真正与众不同？
 
-Freedom to write your prompt and own your data.
+It's not a memory layer OR a code tool OR a search engine. It's all three unified under one graph with one query interface. Nobody else has that.
 
-（自由地编写你的 prompt，拥有你自己的数据。）
+它不是记忆层，不是代码工具，也不是搜索引擎。它三合一，统一在一个图结构里，用一个查询接口。没有其他人能做到。
 
-This is the new battleground.
+And I use it all day with my 100k markdown file OpenClaw+Hermes Agent setup.
 
-（这就是新的战场。）
+我每天都在用，配合我那 10 万个 markdown 文件的 OpenClaw+Hermes Agent 配置。
 
-2034 won't have to be like 1984.
-
-（2034 不必成为 1984。）
-
-🔗 [查看原文 / View Original](https://x.com/garrytan/status/2051099735176659256)
-❤️ 618 · 🔁 65
+🔗 [View Original](https://x.com/garrytan/status/2051525161380364315)
+❤️ 308 · 🔁 10
 
 ---
 
 ### 14. @garrytan
 
-**Garry Tan** · 05-04 00:01
+**Garry Tan** · 05-05 04:21
 
-GBrain supports multiple repos, multiple MCP endpoints, and both full oAuth and Bearer Tokens, and all you have to do to get the admin panel is go to OpenClaw or Hermes and ask for the one-time admin login link.
+GBrain v0.27 just dropped - as promised, you asked for support for lots of other non-Anthropic and non-OpenAI embeddings and LLM support, so here it is. 
 
-（GBrain 支持多仓库、多 MCP 端点，同时支持完整 oAuth 和 Bearer Tokens，而且获取 admin 面板只需前往 OpenClaw 或 Hermes 索取一次性 admin 登录链接即可。）
+GBrain v0.27 发布了——如约而至，你们要求支持更多非 Anthropic 和非 OpenAI 的 embedding 和 LLM，支持来了。
 
-https://t.co/yFpFU4pn5b
+Multi-modal embeddings and deep photo OCR, description, and EXIF extraction coming shortly after that. 
 
-🔗 [查看原文 / View Original](https://x.com/garrytan/status/2051089704658010321)
-❤️ 12 · 🔁 1
+多模态 embedding 以及深度图片 OCR、描述和 EXIF 信息提取也即将上线。
 
----
-
-### 15. @zarazhangrui
-
-**Zara Zhang** · 05-04 06:48
-
-this is the coolest demo I've seen a while, a must-watch for anyone interested in human-agent interaction!
-
-（这是我这阵子看到过最酷的 demo，任何对人-agent 交互感兴趣的人都必须看看！）
-
-🔗 [查看原文 / View Original](https://x.com/zarazhangrui/status/2051192270632993176)
-❤️ 28 · 🔁 5
+🔗 [View Original](https://x.com/garrytan/status/2051517574589116510)
+❤️ 118 · 🔁 8
 
 ---
 
-### 16. @zarazhangrui
+### 15. @mattturck
 
-**Zara Zhang** · 05-04 04:20
+**Matt Turck** · 05-04 19:25
 
-Before AI, you couldn't afford to build something small. Because the cost of software development was so high, you had to hire a team, convince other people, justify it to a committee.
+VCs need to start following the literal description naming trend:
 
-（在 AI 出现之前，你负担不起做一个小东西的成本。因为软件开发成本太高了，你必须组建团队、说服别人、向委员会论证。）
+VC 们需要跟上这种直白描述的命名潮流：
 
-Now, it's literally just you and a coding agent. A coding agent doesn't need to be convinced. It will readily build whatever crazy and weird idea you have. So go build something that would get rejected in every big tech company's product review meeting.
+The Capital Deployment Company of San Francisco
+The Check Writing Company of New York
+The Bridge Round Partnership of Brooklyn
+The Ghosting Company 
+The Liquidated Preference Firm of Miami
 
-（现在，literally 就是你和一个 coding agent。A coding agent 不需要被说服。它会欣然构建任何疯狂古怪的想法。所以去构建一个在各大科技公司产品评审会上都会被否决的东西吧。）
+旧金山资本部署公司
+纽约支票书写公司
+布鲁克林桥轮融资合伙企业
+失联公司
+迈阿密清算优先权公司
 
-🔗 [查看原文 / View Original](https://x.com/zarazhangrui/status/2051155065331941873)
-❤️ 49 · 🔁 7
+🔗 [View Original](https://x.com/mattturck/status/2051382629681828306)
+❤️ 32 · 🔁 0
+
+---
+
+### 16. @nikunj
+
+**Nikunj Kothari** · 05-05 00:11
+
+In NY next week - Tuesday and Wednesday. 
+
+下周在纽约——周二和周三。
+
+Who should I meet? 👀
+
+我应该见谁？👀
+
+🔗 [View Original](https://x.com/nikunj/status/2051454796264263727)
+❤️ 38 · 🔁 1
 
 ---
 
 ### 17. @nikunj
 
-**Nikunj Kothari** · 05-04 00:26
+**Nikunj Kothari** · 05-04 17:13
 
-Never give up on your dreams.. persistence has immense alpha.
+Apparently, this is a hot take..
 
-Bullish on this kid 🫡
+显然这是个热门观点。
 
-（永远不要放弃你的梦想……坚持有巨大的 alpha。看好这孩子 🫡）
+Startup vintage of 2023-2025 is slowly realizing that fancy launch videos & focusing just on distribution MIGHT lead to VC funding, but still leads to money being lit on fire when you should have been spending equal (if not longer) time on retention.
 
-🔗 [查看原文 / View Original](https://x.com/nikunj/status/2051096096110502063)
-❤️ 181 · 🔁 0
+2023-2025 年创业批次正在慢慢意识到：花哨的宣传视频和单纯专注分发渠道可能会拿到 VC 融资，但在本应花同等（甚至更多）时间做留存的时候，钱还是被烧掉了。
+
+Momentum (in lieu of anything else) has ceased to be a moat. It never was in the first place, and the numbers (seed -> series A gap) are starting to show this. We'll see acquihires at a much faster clip than we've seen before.
+
+势头（作为唯一依托）已不再是护城河。它从来都不是。数据（种子轮 → A 轮差距）已经开始说明问题。我们会看到比以前快得多的并购式招聘。
+
+🔗 [View Original](https://x.com/nikunj/status/2051349526171287930)
+❤️ 262 · 🔁 2
 
 ---
 
-### 18. @steipete
+### 18. @nikunj
 
-**Peter Steinberger** · 05-03 23:55
+**Nikunj Kothari** · 05-04 15:23
 
-Released 🚦RepoBar 0.4.0.
+It's criminal how cheap and how good Gemini Flash is.. that too with 1M context windows and structured outputs. 
 
-This one makes the GitHub menu a lot smarter: persistent SQLite caching, fewer wasted API calls, visible rate limits, better Issues/PR loading, archive fallback support.
+Gemini Flash 的价格之低、质量之高简直离谱……还是 100 万上下文窗口和结构化输出。
 
-Tiny menubar app, increasingly useful daily tool.
+Probably, my most used model in production workloads. 
 
-（发布 🚦RepoBar 0.4.0。
+大概是我生产环境里使用最多的模型。
 
-这个版本让 GitHub 菜单变得智能得多：持久化 SQLite 缓存、更少的 API 调用浪费、可见的速率限制、更优的 Issues/PR 加载、归档回退支持。
+Separately their new live voice model is mindblowingly good if you haven't tried it yet!
 
-小小的菜单栏应用，日渐成为离不开的工具。）
+另外他们新的实时语音模型也牛到离谱，如果你还没试过的话！
 
-🔗 [查看原文 / View Original](https://x.com/steipete/status/2051088325100831046)
-❤️ 1486 · 🔁 83
+🔗 [View Original](https://x.com/nikunj/status/2051321911741972900)
+❤️ 252 · 🔁 10
 
 ---
 
 ### 19. @steipete
 
-**Peter Steinberger** · 05-03 21:00
+**Peter Steinberger** · 05-05 06:58
 
-brb calling @sama
+We can now reproduce issues directly in empheral crabboxes with WebVNC (Linux/Windows/macOS).
 
-（稍等，我去打个电话给 @sama）
+我们现在可以在短暂的 crabbox 中直接复现问题，配合 WebVNC（支持 Linux/Windows/macOS）。
 
-🔗 [查看原文 / View Original](https://x.com/steipete/status/2051044240013083133)
-❤️ 2031 · 🔁 35
+Agents set up the exact state to test + fix and post videos on the PR.
+
+智能体设置好精确的测试状态、修复后把视频发到 PR 上。
+
+Working hard to level up our QA.
+
+正在努力升级 QA 能力。
+
+🔗 [View Original](https://x.com/steipete/status/2051557150040711425)
+❤️ 119 · 🔁 3
 
 ---
 
 ### 20. @steipete
 
-**Peter Steinberger** · 05-03 20:16
+**Peter Steinberger** · 05-05 02:15
 
-New claw beta is up! Id you're on our Discord, you can get the soundtrack.
+Crabbox 0.5.0 is live 🦀
 
-（新 claw beta 来了！如果你在我们的 Discord 上，你可以拿到配乐。）
+Crabbox 0.5.0 上线了 🦀
 
-🔗 [查看原文 / View Original](https://x.com/steipete/status/2051033065367970195)
-❤️ 150 · 🔁 12
+🖥️ Desktop/browser leases
+🧑‍💻 VNC + authenticated WebVNC
+🪟 AWS Windows + WSL2
+📸 Screenshots + app launch
+
+桌面/浏览器租用
+VNC + 认证 WebVNC
+AWS Windows + WSL2
+截图 + 应用启动
+
+Remote CI boxes, now suspiciously usable.
+远程 CI 环境，现在出奇地好用。
+
+🔗 [View Original](https://x.com/steipete/status/2051485798613111116)
+❤️ 260 · 🔁 18
 
 ---
 
-## 🎙️ 播客更新 / Podcasts Updates
 
-### 1. Andrej Karpathy: From Vibe Coding to Agentic Engineering
+## 🎙️ Podcasts Updates | 播客更新
 
-**频道 / Channel**: Unknown
-**链接 / Link**: https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8
+### 1. Waymo's Dmitri Dolgov: 20 Million Rides and the Road to Full Autonomy
 
-Speaker 1 | 00:02 - 00:42
-We're so excited for our very first special guest. He has helped build modern AI, then explain modern AI, and then occasionally rename modern AI. He actually helped co found Open AI right inside of this office, was the one who actually got autopilot working at Tesla back in...
+**Channel**: Unknown
+**Link**: https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8
 
-（我们非常激动迎来了第一位特别嘉宾。他帮助构建了现代 AI，然后解释现代 AI，然后偶尔给现代 AI 起新名字。他实际上是在这间办公室里共同创办的 Open AI，是那个当年让特斯拉自动驾驶跑起来的人……）
+Speaker 1 | 00:02 - 00:17
+We have an unbelievable treat next. A founder who's touching a ton of lives and who's been at it for a very long time. How many people here have been in a Waymo? Okay. Well, that's a relief.
+
+接下来有一位重量级嘉宾，一位触达了无数人生活的创始人，他已经在这个领域深耕很久了。在座有多少人坐过 Waymo？好，这让松一口气。
+
+Speaker 1 | 00:17 - 00:20
+The chef eats his own food.
+
+厨师要吃自己做的东西。
+
+Speaker 2 | 00:20 - 00:21
+I...
+
+我...
 
 ---
 
-## 📚 资源 / Resources
+---
+
+## 📚 Resources | 资源
 
 - **Follow Builders Project**: https://github.com/zarazhangrui/follow-builders
-- **更新频率 / Update Frequency**: 推文每 6 小时，播客每 24 小时
+- **Update Frequency**: Tweets every 6 hours, Podcasts every 24 hours
 
 ---
 
-*生成时间 / Generated: 2026-05-05 11:11*
+*Generated: 2026-05-05 23:11*
 *By OpenClaw AI Builders Digest*
